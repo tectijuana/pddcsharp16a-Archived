@@ -1,12 +1,20 @@
-Favor de explicar el Patron de este directorio a nuestros visitantes.
+Patron Adapter
 
-Patron Abstract Factory:
+El patrón Adapter sirve para hacer que dos interfaces, en principio diferentes,
+puedan comunicarse. Para ello añadiremos un adaptador intermedio, que se
+encargará de realizar la conversión de una interface a otra.
 
-El problema que intenta solucionar este patron es el de crear diferentes familias de objetos, 
-es decir, nos ayuda a crear diferentes objetos de la misma familia, por ejemplo: las bibliotecas, 
-para crear interfaces graficas suelen utilizar este patron y cada familia seria un sistema operativo distinto. 
-Asi pues, el usuario declara un Boton, pero de forma mas interna lo que esta creando es un BotonWindows o un BotonLinux, por ejemplo.
+Este patrón se utiliza generalmente cuándo ya existe una interface, pero no
+podemos (o no queremos) usarla. Por ejemplo, cuando tenemos que utilizar
+librerías externas.
 
-Este patron esta aconsejado cuando se preve la inclusion de nuevas familias de productos,
-pero puede resultar contraproducente cuando se a;aden nuevos productos o cambian los existentes, 
-puesto que afectaria a todas las familias creadas.
+Convierte la interfaz de una clase en otra interfaz que el cliente espera. 
+Adapter permite a las clases trabajar juntas, lo que de otra manera no podría
+hacerlo debido a sus interfaces incompatibles.
+
+Se aplica cuando:
+
+Se desea usar una clase existente, y su interfaz no se iguala con la necesitada.
+Cuando se desea crear una clase reusable que coopera con clases no relacionadas
+, es decir, las clases no tienen necesariamente interfaces compatibles.
+
