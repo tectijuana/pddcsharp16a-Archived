@@ -1,12 +1,13 @@
 Favor de explicar el Patron de este directorio a nuestros visitantes.
 
-Patron Abstract Factory:
+Patron Fecade:
 
-El problema que intenta solucionar este patron es el de crear diferentes familias de objetos, 
-es decir, nos ayuda a crear diferentes objetos de la misma familia, por ejemplo: las bibliotecas, 
-para crear interfaces graficas suelen utilizar este patron y cada familia seria un sistema operativo distinto. 
-Asi pues, el usuario declara un Boton, pero de forma mas interna lo que esta creando es un BotonWindows o un BotonLinux, por ejemplo.
+Los patrones de diseño dan una solución probada y documentada a problemas de desarrollo de software que aparecen en un contexto similar. El patrón de diseño Fachada (Facade) es un tipo de patrón estructural.
 
-Este patron esta aconsejado cuando se preve la inclusion de nuevas familias de productos,
-pero puede resultar contraproducente cuando se a;aden nuevos productos o cambian los existentes, 
-puesto que afectaria a todas las familias creadas.
+Que es Facade?
+
+El patrón fachada proporciona una interfaz simple para un subsistema complejo, se usa tambien para estructurar varios subsistemas en capas, otro punto clave para su aplicación es la necesidad de desacoplar un sistema de sus clientes y de otros subsistemas, haciéndolo más independiente, portable y reutilizable (esto es, reduciendo dependencias entre los subsistemas y los clientes).
+
+Porque usar Facade?
+
+El patrón fachada viene motivado por la necesidad de estructurar un entorno de programación y reducir su complejidad con la división en subsistemas, minimizando las comunicaciones y dependencias entre éstos.
