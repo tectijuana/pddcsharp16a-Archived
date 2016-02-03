@@ -36,3 +36,5 @@ SERÁ EL 50% DE LA BLOQUE 1 DE PDD.
 LICENCE GPL
 
 http://choosealicense.com/licenses/gpl-2.0/
+
+editado por abraham vazquez

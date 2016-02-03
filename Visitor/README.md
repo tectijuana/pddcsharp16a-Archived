@@ -1,12 +1,22 @@
-Favor de explicar el Patron de este directorio a nuestros visitantes.
 
-Patron Abstract Factory:
+**#Patron Visitor**
 
-El problema que intenta solucionar este patron es el de crear diferentes familias de objetos, 
-es decir, nos ayuda a crear diferentes objetos de la misma familia, por ejemplo: las bibliotecas, 
-para crear interfaces graficas suelen utilizar este patron y cada familia seria un sistema operativo distinto. 
-Asi pues, el usuario declara un Boton, pero de forma mas interna lo que esta creando es un BotonWindows o un BotonLinux, por ejemplo.
+Este patrón permite añadir funcionalidades a una clase sin tener que modificarla, siendo usado para manejar algoritmos, relaciones y responsabilidades entre objetos.
 
-Este patron esta aconsejado cuando se preve la inclusion de nuevas familias de productos,
-pero puede resultar contraproducente cuando se a;aden nuevos productos o cambian los existentes, 
-puesto que afectaria a todas las familias creadas.
+Así pues, nos resultará útil cuando necesitemos realizar operaciones distintas y no relacionadas sobre una estructura de objetos, aunque si lo utilizamos y luego tenemos que modificar alguna de las clases implicadas, hemos de tener en cuenta que se produce cierto nivel de acoplamiento entre ellas.
+
+Construye una operación a realizar en los elementos de un conjunto de objetos. Es posible agregar nuevas operaciones sin modificar las clases de estos objetos
+
+El patrón visitor es una forma de separar el algoritmo de la estructura de un objeto.
+
+Es un patrón de comportamiento, que permite definir una operación sobre objetos de una jerarquía de clases sin modificar las clases sobre las que opera. Representa una operación que se realiza sobre los elementos que conforman la estructura de un objeto.
+
+Muy utilizado en compiladores, intérpretes y analizadores de código.
+
+**Es recomendable usar el patrón Visitor cuando:**
+
+    +Estructuras jerárquicas (arboles).
+    +Muchas clases poco relacionadas entre sí.
+    +Estructura de objetos con diferentes interfaces y posibilidad de ampliación.
+    +Estructura con altas probabilidades de incluir de nuevos métodos.
+
