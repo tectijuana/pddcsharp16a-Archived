@@ -1,12 +1,13 @@
-Favor de explicar el Patron de este directorio a nuestros visitantes.
+Patrón Decorator:
 
-Patron Abstract Factory:
+Clasificación del patrón: estructural.
 
-El problema que intenta solucionar este patron es el de crear diferentes familias de objetos, 
-es decir, nos ayuda a crear diferentes objetos de la misma familia, por ejemplo: las bibliotecas, 
-para crear interfaces graficas suelen utilizar este patron y cada familia seria un sistema operativo distinto. 
-Asi pues, el usuario declara un Boton, pero de forma mas interna lo que esta creando es un BotonWindows o un BotonLinux, por ejemplo.
+Intención: extender la funcionalidad de un objeto en forma dinámica, proporcionando una alternativa flexible a la creación de subclases.
 
-Este patron esta aconsejado cuando se preve la inclusion de nuevas familias de productos,
-pero puede resultar contraproducente cuando se a;aden nuevos productos o cambian los existentes, 
-puesto que afectaria a todas las familias creadas.
+También conocido como: Wrapper.
+
+Aplicabilidad: Se utiliza este patrón cuando se necesita añadir responsabilidades a objetos individuales dinámica y transparente, es decir, sin afectar a otros objetos.
+
+Se necesita retirar responsabilidades de algunos objetos.
+
+La extensión por subclases es poco práctica. Por ejemplo, un gran número de extensiones independientes son posibles y produciría una explosión de subclases por cada combinación. También cuando la definición de clase puede estar oculta o no disponible para subclases.
