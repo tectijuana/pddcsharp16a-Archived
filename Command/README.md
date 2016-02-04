@@ -10,8 +10,8 @@ El patrón Command resuelve este problema transformando la solicitud en un objet
 
 ## El patrón se utiliza en los casos siguientes: ##
 
-Un objeto debe configurarse para realizar un procesamiento concreto. En el caso del patrón Command, es el solicitante el que se configura mediante una solicitud que contiene la descripción de un procesamiento a realizar sobre uno o varios receptores;
-las solicitudes deben encolarse y poder ejecutarse en un momento cualquiera, eventualmente varias veces;
-las solicitudes pueden ser anuladas;
-las solicitudes deben quedar registradas en un archivo de log;
-las solicitudes deben estar reagrupadas bajo la forma de una transacción. Una transacción es un conjunto ordenado de solicitudes que actúan sobre el estado de un sistema y que pueden ser anuladas.
+* Un objeto debe configurarse para realizar un procesamiento concreto. En el caso del patrón Command, es el solicitante el que se configura mediante una solicitud que contiene la descripción de un procesamiento a realizar sobre uno o varios receptores;
+* Las solicitudes deben encolarse y poder ejecutarse en un momento cualquiera, eventualmente varias veces;
+* Las solicitudes pueden ser anuladas;
+* Las solicitudes deben quedar registradas en un archivo de log;
+* Las solicitudes deben estar reagrupadas bajo la forma de una transacción. Una transacción es un conjunto ordenado de solicitudes que actúan sobre el estado de un sistema y que pueden ser anuladas.
