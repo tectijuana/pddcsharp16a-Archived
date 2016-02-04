@@ -1,18 +1,18 @@
 ﻿> Dear visitors from GitHub and guests, this a repo for Class only on Tijuana.Education course to teach Students of 5th semester to use GitHub
-> Will delete on february 2016.
+> Will delete on July 2016.
 > Thank you.
 
-#Demostración de Patrones de Diseño segun Cooper ( C# Design Patterns )
+#Demostración de Patrones de Diseño según Cooper ( C# Design Patterns )
 
 Los objetivos principales de los patrones de diseño son, entre otros:
 
-Evitar buscar soluciones a problemas típicos ya solucionados anteriormente.
-Estandarizar el modo en que se realiza el diseño.
-Facilitar el aprendizaje de la solución a dichos problemas a los nuevos diseñadores.
+>Evitar buscar soluciones a problemas típicos ya solucionados anteriormente.
+>Estandarizar el modo en que se realiza el diseño.
+>Facilitar el aprendizaje de la solución a dichos problemas a los nuevos diseñadores.
 
 Así pues, el uso de patrones de diseño no es obligatorio, pero sí recomendable siempre que se puedan aplicar sin forzar su uso.
 
-Clasificación de patrones
+## Clasificación de patrones
 
 Como ya hemos visto, los patrones se clasifican en 3 tipos diferentes:
 
