@@ -1,12 +1,9 @@
-Favor de explicar el Patron de este directorio a nuestros visitantes.
+Patron	Factory Method:
 
-Patron Abstract Factory:
-
-El problema que intenta solucionar este patron es el de crear diferentes familias de objetos, 
-es decir, nos ayuda a crear diferentes objetos de la misma familia, por ejemplo: las bibliotecas, 
-para crear interfaces graficas suelen utilizar este patron y cada familia seria un sistema operativo distinto. 
-Asi pues, el usuario declara un Boton, pero de forma mas interna lo que esta creando es un BotonWindows o un BotonLinux, por ejemplo.
-
-Este patron esta aconsejado cuando se preve la inclusion de nuevas familias de productos,
-pero puede resultar contraproducente cuando se a;aden nuevos productos o cambian los existentes, 
-puesto que afectaria a todas las familias creadas.
+consiste en utilizar una clase constructora (al 
+estilo del Abstract Factory) abstracta con unos cuantos métodos 
+definidos y otro(s) abstracto(s): el dedicado a la construcción de 
+objetos de un subtipo de un tipo determinado. Es una simplificación del 
+Abstract Factory, en la que la clase abstracta tiene métodos concretos 
+que usan algunos de los abstractos; según usemos una u otra hija de esta 
+clase abstracta, tendremos uno u otro comportamiento.
