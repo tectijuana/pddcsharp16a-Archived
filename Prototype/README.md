@@ -4,6 +4,8 @@ El patrón de diseño Prototype (Prototipo), tiene como finalidad crear nuevos o
 
 Este patrón especifica la clase de objetos a crear mediante la clonación de un prototipo que es una instancia ya creada. La clase de los objetos que servirán de prototipo deberá incluir en su interfaz la manera de solicitar una copia, que será desarrollada luego por las clases concretas de prototipos.
 
+https://highscalability.files.wordpress.com/2010/03/prototype.png
+
 using System;
 
 public abstract class Documento 
