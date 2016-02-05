@@ -1,12 +1,13 @@
 Favor de explicar el Patron de este directorio a nuestros visitantes.
 
-Patron Abstract Factory:
+Patron Interpreter
+Concepto
+Proporciona un marco para dar una representación mediante objetos de la gramática de un lenguaje con el objetivo de evaluar, interpretándolas, expresiones escritas en este lenguaje.
 
-El problema que intenta solucionar este patron es el de crear diferentes familias de objetos, 
-es decir, nos ayuda a crear diferentes objetos de la misma familia, por ejemplo: las bibliotecas, 
-para crear interfaces graficas suelen utilizar este patron y cada familia seria un sistema operativo distinto. 
-Asi pues, el usuario declara un Boton, pero de forma mas interna lo que esta creando es un BotonWindows o un BotonLinux, por ejemplo.
+Participantes
+Expresión es una clase abstracta que representa cualquier tipo de expresión, es decir cualquier nodo del árbol sintáctico;
 
-Este patron esta aconsejado cuando se preve la inclusion de nuevas familias de productos,
-pero puede resultar contraproducente cuando se a;aden nuevos productos o cambian los existentes, 
-puesto que afectaria a todas las familias creadas.
+OperadorAbstracto (OperadorBinario) Es también una clase abstracta. Describe cualquier nodo de tipo operador, es decir que posea operandos que son subárboles del árbol sintáctico.
+OperadorConcreto1 y OperadorConcreto2 (OperadorY, OperadorO) Son implementaciones del OperadorAbstracto que describen completamente la semántica del operador y por tanto son capaces de evaluarlo.
+ElementoTerminal Es una clase abstracta que describe cualquier nodo correspondiente a un elemento terminal.
+ElementoTerminalConcreto1 y ElementoTerminalConcreto2 (PalabraClave) Son clases concretas que corresponden con un elemento terminal, capaces de evaluar este elemento.
