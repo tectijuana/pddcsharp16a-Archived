@@ -2,7 +2,7 @@
 
 ##Patron Facade:
 
-> Los patrones de diseño dan una solución probada y documentada a problemas de desarrollo de software que aparecen en un contexto similar. El patrón de diseño Fachada (Facade) es un tipo de patrón estructural.
+> Los patrones de diseño dan una solución probada y documentada a problemas de desarrollo de software que aparecen en un contexto similar. El patrón de diseño **Fachada (Facade)** es un tipo de patrón estructural.
 
 ###Que es Facade?
 
