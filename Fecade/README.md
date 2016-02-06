@@ -6,7 +6,7 @@
 
 ###Que es Facade?
 
-> El patrón fachada proporciona una interfaz simple para un subsistema complejo, se usa tambien para estructurar varios subsistemas en capas, otro punto clave para su aplicación es la necesidad de desacoplar un sistema de sus clientes y de otros subsistemas, haciéndolo más independiente, portable y reutilizable (esto es, reduciendo dependencias entre los subsistemas y los clientes).
+> El patrón fachada proporciona una interfaz simple para un subsistema complejo, se usa tambien para estructurar varios subsistemas en capas, otro punto clave para su aplicación es la necesidad de desacoplar un sistema de sus clientes y de otros subsistemas, haciéndolo más **independiente, portable y reutilizable** (esto es, reduciendo dependencias entre los subsistemas y los clientes).
 
 ###Porque usar Facade?
 
