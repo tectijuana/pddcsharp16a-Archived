@@ -8,4 +8,4 @@ Define en una operación el esqueleto de un algoritmo, delegando en las subclase
 
 El método de plantilla está diseñado para frameworks, donde cada cual implementa las partes de la arquitectura de un ámbito, dejando espacios para personalizar las opciones.
 
-![UML del Template Method](https://photos.google.com/photo/AF1QipPTZKgQuMVQAcIpwohQnSOsgHhfuKJz9j4178mv "UML")
+![<img src="https://photos.google.com/photo/AF1QipPTZKgQuMVQAcIpwohQnSOsgHhfuKJz9j4178mv>]( "UML")
