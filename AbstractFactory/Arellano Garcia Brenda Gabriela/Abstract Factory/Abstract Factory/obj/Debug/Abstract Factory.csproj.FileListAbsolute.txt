@@ -1,0 +1,6 @@
+C:\Users\BGAG\Desktop\Abstract Factory\Abstract Factory\bin\Debug\Abstract Factory.exe.config
+C:\Users\BGAG\Desktop\Abstract Factory\Abstract Factory\obj\Debug\Abstract Factory.csprojResolveAssemblyReference.cache
+C:\Users\BGAG\Desktop\Abstract Factory\Abstract Factory\bin\Debug\Abstract Factory.exe
+C:\Users\BGAG\Desktop\Abstract Factory\Abstract Factory\bin\Debug\Abstract Factory.pdb
+C:\Users\BGAG\Desktop\Abstract Factory\Abstract Factory\obj\Debug\Abstract Factory.exe
+C:\Users\BGAG\Desktop\Abstract Factory\Abstract Factory\obj\Debug\Abstract Factory.pdb
