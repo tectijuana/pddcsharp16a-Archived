@@ -13,6 +13,9 @@ GoF define el patrón prototipo como "Especificar el tipo de objetos para crear 
 Prototype: Se trata de una interfaz o clase abstracta que define el método para clonar en sí.
 ConcretePrototype:  Esta es la clase concreta que va a clonarse.
 Client: El objeto de la aplicación que necesita la copia clonada del objeto.
+
+![GitHub Logo](home/linuxcf/pddcsharp/Prototype/GofPrototype.jpg)
+
 ```
 using System;
 namespace DoFactory.GangOfFour.Prototype.Structural 
