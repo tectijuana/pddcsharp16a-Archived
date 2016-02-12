@@ -4,121 +4,70 @@ El patrón de diseño Prototype (Prototipo), tiene como finalidad crear nuevos o
 
 Este patrón especifica la clase de objetos a crear mediante la clonación de un prototipo que es una instancia ya creada. La clase de los objetos que servirán de prototipo deberá incluir en su interfaz la manera de solicitar una copia, que será desarrollada luego por las clases concretas de prototipos.
 
-https://highscalability.files.wordpress.com/2010/03/prototype.png
+
+
 
 using System;
+namespace DoFactory.GangOfFour.Prototype.Structural 
+{
 
-public abstract class Documento 
+// MainApp test application
+class MainApp
+{
 
-{ 
-
- protected string contenido = ""; 
-
- public Documento duplica() 
-
- { 
-
- Documento resultado; 
-
- resultado = (Documento)this.MemberwiseClone(); 
-
- return resultado; 
-
- } 
-
- public void rellena(string informacion) 
-
- { 
-
- contenido = informacion; 
-
- } 
-
- public abstract void imprime(); 
-
- public abstract void visualiza(); 
-
-} 
-
-using System; 
-
-public class OrdenDePedido : Documento 
-
-{ 
-
- public override void visualiza() 
-
- { 
-
- Console.WriteLine("Muestra la orden de pedido: " + 
-
- contenido); 
-
- } 
-
- public override void imprime() 
-
- { 
-
- Console.WriteLine("Imprime la orden de pedido: " + 
-
- contenido); 
-
- } 
-
-} 
-
-using System; 
-
-public class SolicitudMatriculacion : Documento 
-
-{ 
-
- public override void visualiza() 
-
- { 
-
- Console.WriteLine( 
-
- "Muestra la solicitud de matriculación: " + contenido); 
-
- } 
-
- public override void imprime() 
-
- { 
-
- Console.WriteLine( 
-
- "Imprime la solicitud de matriculación: " + contenido); 
-
- } 
-
-} 
-
-using System;
-public class CertificadoCesion : Documento
-
-{ 
-
- public override void visualiza() 
-
- { 
-
- Console.WriteLine( 
-
- "Muestra el certificado de cesión: " + contenido); 
-
- } 
-
- public override void imprime() 
-
- { 
-
- Console.WriteLine( 
-
- "Imprime el certificado de cesión: " + contenido); 
-
- } 
-
+static void Main()
+{
+  // Create two instances and clone each 
+  ConcretePrototype1 p1 = new ConcretePrototype1("I");
+  ConcretePrototype1 c1 = (ConcretePrototype1)p1.Clone();
+  Console.WriteLine ("Cloned: {0}", c1.Id);
+  ConcretePrototype2 p2 = new ConcretePrototype2("II");
+  ConcretePrototype2 c2 = (ConcretePrototype2)p2.Clone();
+  Console.WriteLine ("Cloned: {0}", c2.Id);
+  // Wait for user 
+  Console.Read();
+}
+}
+// "Prototype" 
+abstract class Prototype
+{
+private string id;
+// Constructor 
+public Prototype(string id)
+{
+this.id = id;
+}
+// Property 
+public string Id
+{
+get{ return id; }
+}
+public abstract Prototype Clone();
+}
+// "ConcretePrototype1" 
+class ConcretePrototype1 : Prototype
+{
+// Constructor 
+public ConcretePrototype1(string id) : base(id) 
+{
+}
+public override Prototype Clone()
+{
+// Shallow copy 
+return (Prototype)this.MemberwiseClone();
+}
+}
+// "ConcretePrototype2" 
+class ConcretePrototype2 : Prototype
+{
+// Constructor 
+public ConcretePrototype2(string id) : base(id) 
+{
+}
+public override Prototype Clone()
+{
+// Shallow copy 
+return (Prototype)this.MemberwiseClone();
+}
+}
 }
