@@ -1,9 +1,17 @@
-Patron	Factory Method:
+**Factory Method** sirve para crear objetos así como Template Method se utiliza para implementar un algoritmo. Una superclase especifica todos los comportamientos estándares y genéricos y delega los detalles de la creación a las subclases que son suministradas por el cliente.
+Factory Method permite un diseño más personalizable y sólo un poco más complicado. Otros patrones de diseño requieren nuevas clases, mientras que éste sólo requiere una nueva operación.
+Éste patrón es similar al patrón Abstract Factory, pero sin el énfasis en las familias de objetos.
+Los Factory Methods son especificados de manera rutinaria por un framework arquitectónico, y entonces es implementado por el usuario de dicho framework.
 
-consiste en utilizar una clase constructora (al 
-estilo del Abstract Factory) abstracta con unos cuantos métodos 
-definidos y otro(s) abstracto(s): el dedicado a la construcción de 
-objetos de un subtipo de un tipo determinado. Es una simplificación del 
-Abstract Factory, en la que la clase abstracta tiene métodos concretos 
-que usan algunos de los abstractos; según usemos una u otra hija de esta 
-clase abstracta, tendremos uno u otro comportamiento.
+**Intención del patrón**
+
+    *Definir una interfaz para crear un objeto, pero dejar que las subclases decidan cuál clase instanciar.
+    *Factory Method permite a una clase diferir la instanciación a subclases.
+    *La definición de un constructor "virtual".
+    *Que el operador new sea considerado dañino.
+
+**Estructura**
+Las clases principales en este patrón son el creador y el producto. El creador necesita crear instancias de productos, pero el tipo concreto de producto no debe ser forzado en las subclases del creador, porque entonces las posibles subclases del creador deben poder especificar subclases del producto para utilizar.
+
+**Ventaja**
+Como ventaja podemos citar la centralización de creación de objetos, todo lo haríamos a través de una sola clase por lo que podríamos definir los mismos métodos y acciones para todos los objetos de una aplicación
