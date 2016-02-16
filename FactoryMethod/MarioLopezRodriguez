@@ -1,0 +1,103 @@
+///Mario Lopez Rodriguez
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace FactoryMethod
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            PedidoContado pedidoContado = new PedidoContado(15.99);
+            pedidoContado.paga();
+
+            PedidoCredito pedidoCredito = new PedidoCredito(12.000);
+            pedidoCredito.paga();
+            Console.ReadLine();
+        }
+    }
+
+
+public abstract class Pedido 
+
+{ 
+
+ protected double importe; 
+
+ public Pedido(double importe) 
+
+ { 
+
+ this.importe = importe; 
+
+ } 
+
+ public abstract bool valida(); 
+
+ public abstract void paga(); 
+
+} 
+
+
+
+public class PedidoContado : Pedido 
+
+{ 
+
+ public PedidoContado(double importe) : base(importe) { } 
+
+ public override void paga() 
+
+ { 
+
+ Console.WriteLine( 
+
+ "El pago del pedido por importe de: " + 
+
+ importe + " se ha realizado."); 
+
+ } 
+
+ public override bool valida() 
+
+ { 
+
+ return true; 
+
+ } 
+
+} 
+
+
+
+public class PedidoCredito : Pedido 
+
+{ 
+
+ public PedidoCredito(double importe) : base(importe) { } 
+
+ public override void paga() 
+
+ { 
+
+ Console.WriteLine( 
+
+ "El pago del pedido a crédito de: " + 
+
+ importe + " se ha realizado."); 
+
+ } 
+
+ public override bool valida() 
+
+ { 
+
+ return (importe >= 1000.0) && (importe <= 5000.0); 
+
+ } 
+
+}
+}
