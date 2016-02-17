@@ -1,0 +1,1 @@
+c:\users\joseluis\documents\visual studio 2015\Projects\Flyweight - Cano Aguilar\Flyweight - Cano Aguilar\bin\Debug\Flyweight - Cano Aguilar.exe.config
