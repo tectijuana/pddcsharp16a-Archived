@@ -1,0 +1,4 @@
+C:\Users\LabTec\documents\visual studio 2010\Projects\AdapterGermanVerdoza\Adapter\bin\Debug\Adapter.exe
+C:\Users\LabTec\documents\visual studio 2010\Projects\AdapterGermanVerdoza\Adapter\bin\Debug\Adapter.pdb
+C:\Users\LabTec\documents\visual studio 2010\Projects\AdapterGermanVerdoza\Adapter\obj\x86\Debug\Adapter.exe
+C:\Users\LabTec\documents\visual studio 2010\Projects\AdapterGermanVerdoza\Adapter\obj\x86\Debug\Adapter.pdb
