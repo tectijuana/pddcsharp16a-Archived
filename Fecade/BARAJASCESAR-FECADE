@@ -21,6 +21,7 @@ namespace ConsoleApplication7
             facade.MethodA();
             facade.MethodB();
 
+
             // Wait for user
             Console.ReadKey();
         }
