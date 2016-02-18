@@ -1,0 +1,10 @@
+C:\Users\BGAG\AppData\Local\Temporary Projects\Prototype\bin\Debug\Prototype.exe
+C:\Users\BGAG\AppData\Local\Temporary Projects\Prototype\bin\Debug\Prototype.pdb
+C:\Users\BGAG\AppData\Local\Temporary Projects\Prototype\obj\x86\Debug\Prototype.exe
+C:\Users\BGAG\AppData\Local\Temporary Projects\Prototype\obj\x86\Debug\Prototype.pdb
+C:\Users\BGAG\Desktop\Prototype\Prototype\obj\x86\Debug\Prototype.exe
+C:\Users\BGAG\Desktop\Prototype\Prototype\obj\x86\Debug\Prototype.pdb
+C:\Users\BGAG\Desktop\Prototype\Prototype\bin\Debug\Prototype.exe
+C:\Users\BGAG\Desktop\Prototype\Prototype\bin\Debug\Prototype.pdb
+C:\Users\Evelyn\Desktop\Prototype\Prototype\obj\x86\Debug\Prototype.exe
+C:\Users\Evelyn\Desktop\Prototype\Prototype\obj\x86\Debug\Prototype.pdb
