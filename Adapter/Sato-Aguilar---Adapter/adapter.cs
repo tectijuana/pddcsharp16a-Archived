@@ -49,9 +49,9 @@ namespace Ejemplo_de_patron_de_diseño
 
         //continuación.
 
-        public class ComponentePdf 
-        { 
-            protected string contenido; 
+        public class ComponentePdf
+        {
+            protected string contenido;
             public void obtenerpdf(string contenido)
             {
                 this.contenido = contenido;
