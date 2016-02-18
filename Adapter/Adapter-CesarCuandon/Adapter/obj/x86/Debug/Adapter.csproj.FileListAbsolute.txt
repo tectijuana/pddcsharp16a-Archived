@@ -1,0 +1,6 @@
+C:\Users\LabTec\AppData\Local\Temporary Projects\Adapter\bin\Debug\Adapter.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\Adapter\bin\Debug\Adapter.pdb
+C:\Users\LabTec\AppData\Local\Temporary Projects\Adapter\obj\x86\Debug\Adapter.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\Adapter\obj\x86\Debug\Adapter.pdb
+E:\Adapter\Adapter\obj\x86\Debug\Adapter.exe
+E:\Adapter\Adapter\obj\x86\Debug\Adapter.pdb
