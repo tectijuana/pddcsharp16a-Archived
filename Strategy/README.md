@@ -1,12 +1,7 @@
-Favor de explicar el Patron de este directorio a nuestros visitantes.
+Patron Strategy:
 
-Patron Abstract Factory:
+“Definir una familia de algoritmos, encapsular cada uno de ellos y hacerlos intercambiables. 
+Strategy permite cambiar el algoritmo independientemente de los clientes que lo utilicen”.
 
-El problema que intenta solucionar este patron es el de crear diferentes familias de objetos, 
-es decir, nos ayuda a crear diferentes objetos de la misma familia, por ejemplo: las bibliotecas, 
-para crear interfaces graficas suelen utilizar este patron y cada familia seria un sistema operativo distinto. 
-Asi pues, el usuario declara un Boton, pero de forma mas interna lo que esta creando es un BotonWindows o un BotonLinux, por ejemplo.
-
-Este patron esta aconsejado cuando se preve la inclusion de nuevas familias de productos,
-pero puede resultar contraproducente cuando se a;aden nuevos productos o cambian los existentes, 
-puesto que afectaria a todas las familias creadas.
+El nombre de este patrón evoca la posibilidad de realizar un cambio de estrategia en tiempo de ejecución sustituyendo un objeto que se encargará de implementarla. No nos preocupará el “cómo”.
+De hecho, ni siquiera nos importará “el qué”: la clase que actúa como interfaz del patrón únicamente tendrá que exponer el método o métodos que deberá invocar el cliente.

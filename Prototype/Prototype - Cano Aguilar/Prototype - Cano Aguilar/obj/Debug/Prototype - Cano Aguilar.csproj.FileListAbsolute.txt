@@ -1,0 +1,5 @@
+c:\users\joseluis\documents\visual studio 2015\Projects\Prototype - Cano Aguilar\Prototype - Cano Aguilar\bin\Debug\Prototype - Cano Aguilar.exe.config
+c:\users\joseluis\documents\visual studio 2015\Projects\Prototype - Cano Aguilar\Prototype - Cano Aguilar\bin\Debug\Prototype - Cano Aguilar.exe
+c:\users\joseluis\documents\visual studio 2015\Projects\Prototype - Cano Aguilar\Prototype - Cano Aguilar\bin\Debug\Prototype - Cano Aguilar.pdb
+c:\users\joseluis\documents\visual studio 2015\Projects\Prototype - Cano Aguilar\Prototype - Cano Aguilar\obj\Debug\Prototype - Cano Aguilar.exe
+c:\users\joseluis\documents\visual studio 2015\Projects\Prototype - Cano Aguilar\Prototype - Cano Aguilar\obj\Debug\Prototype - Cano Aguilar.pdb

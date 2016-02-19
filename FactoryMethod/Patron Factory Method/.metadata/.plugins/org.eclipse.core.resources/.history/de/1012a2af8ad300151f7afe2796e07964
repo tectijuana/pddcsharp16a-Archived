@@ -1,0 +1,14 @@
+package Patrones_De_Diseño;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		TrianguloFactoryMethod factory= new TrianguloFactory();
+		
+		
+	}
+	
+	
+	
+}

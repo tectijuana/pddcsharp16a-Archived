@@ -1,0 +1,8 @@
+C:\Users\LabTec\AppData\Local\Temporary Projects\Ejemplo de patron de diseño\bin\Debug\Ejemplo de patron de diseño.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\Ejemplo de patron de diseño\bin\Debug\Ejemplo de patron de diseño.pdb
+C:\Users\LabTec\AppData\Local\Temporary Projects\Ejemplo de patron de diseño\obj\x86\Debug\Ejemplo de patron de diseño.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\Ejemplo de patron de diseño\obj\x86\Debug\Ejemplo de patron de diseño.pdb
+C:\Users\LabTec\documents\visual studio 2010\Projects\Ejemplo de patron de diseño\Ejemplo de patron de diseño\obj\x86\Debug\Ejemplo de patron de diseño.exe
+C:\Users\LabTec\documents\visual studio 2010\Projects\Ejemplo de patron de diseño\Ejemplo de patron de diseño\obj\x86\Debug\Ejemplo de patron de diseño.pdb
+C:\Users\rogel\OneDrive\Documentos\7mo semestre\Patrones de Diseño\Ejemplo de patron de diseño\Ejemplo de patron de diseño\obj\x86\Debug\Ejemplo de patron de diseño.exe
+C:\Users\rogel\OneDrive\Documentos\7mo semestre\Patrones de Diseño\Ejemplo de patron de diseño\Ejemplo de patron de diseño\obj\x86\Debug\Ejemplo de patron de diseño.pdb

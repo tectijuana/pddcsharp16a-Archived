@@ -1,0 +1,14 @@
+package Patrones_De_Diseño;
+
+public class TrianguloFactory implements TrianguloFactoryMethod {
+
+	
+	
+	public Triangulo createTriangulo( int ladoA, int ladoB, int ladoC);
+	 if ((ladoA==))
+		
+	}
+	
+	
+	
+}
