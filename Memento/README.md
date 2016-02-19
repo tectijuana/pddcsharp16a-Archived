@@ -1,12 +1,11 @@
 Favor de explicar el Patron de este directorio a nuestros visitantes.
 
-Patron Abstract Factory:
+Memento
 
-El problema que intenta solucionar este patron es el de crear diferentes familias de objetos, 
-es decir, nos ayuda a crear diferentes objetos de la misma familia, por ejemplo: las bibliotecas, 
-para crear interfaces graficas suelen utilizar este patron y cada familia seria un sistema operativo distinto. 
-Asi pues, el usuario declara un Boton, pero de forma mas interna lo que esta creando es un BotonWindows o un BotonLinux, por ejemplo.
-
-Este patron esta aconsejado cuando se preve la inclusion de nuevas familias de productos,
-pero puede resultar contraproducente cuando se a;aden nuevos productos o cambian los existentes, 
-puesto que afectaria a todas las familias creadas.
+El patrón memento es un patrón de diseño de software, y está catalogado
+ como un patrón de comportamiento Se utiliza para guardar el estado de
+ un objeto y poder luego restaurar el objeto a un estado previo También
+ sirve para guardar una colección de estados sucesivos que puede tener un
+ objeto y poder luego restaurar el objeto a un estado previo.
+ Cuando hablamos de estado de un objeto, debemos entender, los valores que
+ ese objeto tiene en sus variables miembro.
