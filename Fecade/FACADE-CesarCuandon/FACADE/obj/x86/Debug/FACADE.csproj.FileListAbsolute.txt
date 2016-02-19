@@ -1,0 +1,8 @@
+C:\Users\Cesar Cuandon\Documents\ESCUELA\OCTAVO\PDD\FACADE\FACADE\bin\Debug\FACADE.exe
+C:\Users\Cesar Cuandon\Documents\ESCUELA\OCTAVO\PDD\FACADE\FACADE\bin\Debug\FACADE.pdb
+C:\Users\Cesar Cuandon\Documents\ESCUELA\OCTAVO\PDD\FACADE\FACADE\obj\x86\Debug\FACADE.exe
+C:\Users\Cesar Cuandon\Documents\ESCUELA\OCTAVO\PDD\FACADE\FACADE\obj\x86\Debug\FACADE.pdb
+E:\FACADE\FACADE\obj\x86\Debug\FACADE.exe
+E:\FACADE\FACADE\obj\x86\Debug\FACADE.pdb
+E:\FACADE\FACADE\bin\Debug\FACADE.exe
+E:\FACADE\FACADE\bin\Debug\FACADE.pdb

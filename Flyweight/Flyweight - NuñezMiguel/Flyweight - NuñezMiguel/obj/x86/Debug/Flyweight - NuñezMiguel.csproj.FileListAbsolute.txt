@@ -1,0 +1,5 @@
+C:\Users\LabTec\Desktop\Flyweight - NuñezMiguel\Flyweight - NuñezMiguel\bin\Debug\Flyweight - NuñezMiguel.exe
+C:\Users\LabTec\Desktop\Flyweight - NuñezMiguel\Flyweight - NuñezMiguel\bin\Debug\Flyweight - NuñezMiguel.pdb
+C:\Users\LabTec\Desktop\Flyweight - NuñezMiguel\Flyweight - NuñezMiguel\obj\x86\Debug\Flyweight - NuñezMiguel.csprojResolveAssemblyReference.cache
+C:\Users\LabTec\Desktop\Flyweight - NuñezMiguel\Flyweight - NuñezMiguel\obj\x86\Debug\Flyweight - NuñezMiguel.exe
+C:\Users\LabTec\Desktop\Flyweight - NuñezMiguel\Flyweight - NuñezMiguel\obj\x86\Debug\Flyweight - NuñezMiguel.pdb

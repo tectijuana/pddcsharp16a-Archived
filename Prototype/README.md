@@ -1,12 +1,5 @@
-Favor de explicar el Patron de este directorio a nuestros visitantes.
+Este patrón resulta útil en escenarios donde es preciso abstraer la lógica que decide qué tipos de objetos utilizará una aplicación, de la lógica que luego usarán esos objetos en su ejecución. Los motivos de esta separación pueden ser variados, por ejemplo, puede ser que la aplicación deba basarse en alguna configuración o parámetro en tiempo de ejecución para decidir el tipo de objetos que se debe crear. En ese caso, la aplicación necesitará crear nuevos objetos a partir de modelos. Estos modelos, o prototipos, son clonados y el nuevo objeto será una copia exacta de los mismos, con el mismo estado. Como decimos, esto resulta interesante para crear, en tiempo de ejecución, copias de objetos concretos inicialmente fijados, o también cuando sólo existe un número pequeño de combinaciones diferentes de estado para las instancias de una clase.
 
-Patron Abstract Factory:
+Dicho de otro modo, este patrón propone la creación de distintas variantes de objetos que nuestra aplicación necesite, en el momento y contexto adecuado. Toda la lógica necesaria para la decisión sobre el tipo de objetos que usará la aplicación en su ejecución se hace independiente, de manera que el código que utiliza estos objetos solicitará una copia del objeto que necesite. En este contexto, una copia significa otra instancia del objeto. El único requisito que debe cumplir este objeto es suministrar la funcionalidad de clonarse.
 
-El problema que intenta solucionar este patron es el de crear diferentes familias de objetos, 
-es decir, nos ayuda a crear diferentes objetos de la misma familia, por ejemplo: las bibliotecas, 
-para crear interfaces graficas suelen utilizar este patron y cada familia seria un sistema operativo distinto. 
-Asi pues, el usuario declara un Boton, pero de forma mas interna lo que esta creando es un BotonWindows o un BotonLinux, por ejemplo.
-
-Este patron esta aconsejado cuando se preve la inclusion de nuevas familias de productos,
-pero puede resultar contraproducente cuando se a;aden nuevos productos o cambian los existentes, 
-puesto que afectaria a todas las familias creadas.
+En el caso, por ejemplo, de un editor gráfico, podemos crear rectángulos, círculos, etc... como copias de prototipos. Estos objetos gráficos pertenecerán a una jerarquía cuyas clases derivadas implementarán el mecanismo de clonación.
