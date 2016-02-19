@@ -1,0 +1,6 @@
+C:\Users\Daniel\Desktop\Patron - Flyweight\Patron - Flyweight\bin\Debug\Patron - Flyweight.exe.config
+C:\Users\Daniel\Desktop\Patron - Flyweight\Patron - Flyweight\obj\Debug\Patron - Flyweight.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\Patron - Flyweight\Patron - Flyweight\bin\Debug\Patron - Flyweight.exe
+C:\Users\Daniel\Desktop\Patron - Flyweight\Patron - Flyweight\bin\Debug\Patron - Flyweight.pdb
+C:\Users\Daniel\Desktop\Patron - Flyweight\Patron - Flyweight\obj\Debug\Patron - Flyweight.exe
+C:\Users\Daniel\Desktop\Patron - Flyweight\Patron - Flyweight\obj\Debug\Patron - Flyweight.pdb

@@ -1,0 +1,6 @@
+C:\Users\LabTec\AppData\Local\Temporary Projects\Prototype\bin\Debug\Prototype.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\Prototype\bin\Debug\Prototype.pdb
+C:\Users\LabTec\AppData\Local\Temporary Projects\Prototype\obj\x86\Debug\Prototype.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\Prototype\obj\x86\Debug\Prototype.pdb
+E:\Prototype\Prototype\obj\x86\Debug\Prototype.exe
+E:\Prototype\Prototype\obj\x86\Debug\Prototype.pdb

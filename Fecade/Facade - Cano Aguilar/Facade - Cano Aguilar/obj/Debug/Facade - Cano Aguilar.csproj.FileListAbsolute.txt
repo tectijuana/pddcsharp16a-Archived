@@ -1,0 +1,5 @@
+c:\users\joseluis\documents\visual studio 2015\Projects\Facade - Cano Aguilar\Facade - Cano Aguilar\bin\Debug\Facade - Cano Aguilar.exe.config
+c:\users\joseluis\documents\visual studio 2015\Projects\Facade - Cano Aguilar\Facade - Cano Aguilar\bin\Debug\Facade - Cano Aguilar.exe
+c:\users\joseluis\documents\visual studio 2015\Projects\Facade - Cano Aguilar\Facade - Cano Aguilar\bin\Debug\Facade - Cano Aguilar.pdb
+c:\users\joseluis\documents\visual studio 2015\Projects\Facade - Cano Aguilar\Facade - Cano Aguilar\obj\Debug\Facade - Cano Aguilar.exe
+c:\users\joseluis\documents\visual studio 2015\Projects\Facade - Cano Aguilar\Facade - Cano Aguilar\obj\Debug\Facade - Cano Aguilar.pdb

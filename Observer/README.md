@@ -1,12 +1,7 @@
-Favor de explicar el Patron de este directorio a nuestros visitantes.
+Patron Observer
 
-Patron Abstract Factory:
+Es un patrón de diseño que define una dependencia del tipo uno-a-muchos entre objetos, de manera que cuando uno de los objetos cambia su estado, notifica este cambio a todos los dependientes.
 
-El problema que intenta solucionar este patron es el de crear diferentes familias de objetos, 
-es decir, nos ayuda a crear diferentes objetos de la misma familia, por ejemplo: las bibliotecas, 
-para crear interfaces graficas suelen utilizar este patron y cada familia seria un sistema operativo distinto. 
-Asi pues, el usuario declara un Boton, pero de forma mas interna lo que esta creando es un BotonWindows o un BotonLinux, por ejemplo.
+La variación de la encapsulación es la base de muchos patrones de comportamiento, por lo que cuando un aspecto de un programa cambia frecuentemente, estos patrones definen un objeto que encapsula dicho aspecto. Los patrones definen una clase abstracta que describe la encapsulación del objeto.
 
-Este patron esta aconsejado cuando se preve la inclusion de nuevas familias de productos,
-pero puede resultar contraproducente cuando se a;aden nuevos productos o cambian los existentes, 
-puesto que afectaria a todas las familias creadas.
+Este patrón también se conoce como el patrón de publicación-inscripción o modelo-patrón. Estos nombres sugieren las ideas básicas del patrón, que son: el objeto de datos, que se le puede llamar Sujeto a partir de ahora, contiene atributos mediante los cuales cualquier objeto Observador o vista se puede suscribir a él pasándole una referencia a sí mismo. 

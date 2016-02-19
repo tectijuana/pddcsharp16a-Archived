@@ -1,0 +1,8 @@
+package Patrones_De_Diseño;
+
+public class Equilatero  extends Triangulo{
+
+	
+	
+	
+}
