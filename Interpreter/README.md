@@ -1,11 +1,11 @@
 Favor de explicar el Patron de este directorio a nuestros visitantes.
 
-Patron Interpreter
+#***Patron Interpreter***
 
-Concepto
+##Concepto
 Proporciona un marco para dar una representación mediante objetos de la gramática de un lenguaje con el objetivo de evaluar, interpretándolas, expresiones escritas en este lenguaje.
 
-Participantes
+##Participantes
 Expresión es una clase abstracta que representa cualquier tipo de expresión, es decir cualquier nodo del árbol sintáctico;
 
 OperadorAbstracto (OperadorBinario) Es también una clase abstracta. Describe cualquier nodo de tipo operador, es decir que posea operandos que son subárboles del árbol sintáctico.
