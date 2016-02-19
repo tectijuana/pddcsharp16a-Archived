@@ -1,0 +1,6 @@
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\Prototype-GarciaJoel\Prototype-GarciaJoel\bin\Debug\Prototype-GarciaJoel.exe.config
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\Prototype-GarciaJoel\Prototype-GarciaJoel\bin\Debug\Prototype-GarciaJoel.exe
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\Prototype-GarciaJoel\Prototype-GarciaJoel\bin\Debug\Prototype-GarciaJoel.pdb
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\Prototype-GarciaJoel\Prototype-GarciaJoel\obj\Debug\Prototype-GarciaJoel.csprojResolveAssemblyReference.cache
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\Prototype-GarciaJoel\Prototype-GarciaJoel\obj\Debug\Prototype-GarciaJoel.exe
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\Prototype-GarciaJoel\Prototype-GarciaJoel\obj\Debug\Prototype-GarciaJoel.pdb
