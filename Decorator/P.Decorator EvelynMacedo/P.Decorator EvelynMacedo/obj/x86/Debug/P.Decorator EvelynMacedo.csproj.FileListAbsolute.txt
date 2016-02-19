@@ -1,0 +1,4 @@
+c:\users\evelyn\documents\visual studio 2010\Projects\P.Decorator EvelynMacedo\P.Decorator EvelynMacedo\bin\Debug\P.Decorator EvelynMacedo.exe
+c:\users\evelyn\documents\visual studio 2010\Projects\P.Decorator EvelynMacedo\P.Decorator EvelynMacedo\bin\Debug\P.Decorator EvelynMacedo.pdb
+c:\users\evelyn\documents\visual studio 2010\Projects\P.Decorator EvelynMacedo\P.Decorator EvelynMacedo\obj\x86\Debug\P.Decorator EvelynMacedo.exe
+c:\users\evelyn\documents\visual studio 2010\Projects\P.Decorator EvelynMacedo\P.Decorator EvelynMacedo\obj\x86\Debug\P.Decorator EvelynMacedo.pdb
