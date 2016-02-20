@@ -1,45 +1,46 @@
- /// <summary>
- /// The 'Component' interface
- /// </summary>
- public interface Vehicle
- {
-  string Make { get; }
-  string Model { get; }
-  double Price { get; }
- }
-
- /// <summary>
- /// The 'ConcreteComponent' class
- /// </summary>
- public class HondaCity : Vehicle
- {
-  public string Make
-  {
-  get { return "HondaCity"; }
-  }
-
-  public string Model
-  {
-  get { return "CNG"; }
-  }
-
-  public double Price
-  {
-    get { return 1000000; }
-  }
- }
-/// <summary>
-/// The 'Decorator' abstract class
- /// </summary>
- public abstract class VehicleDecorator : Vehicle
- {
-  private Vehicle _vehicle;
-
-  public VehicleDecorator(Vehicle vehicle)
-  {
-  _vehicle = vehicle;
-  }
-
+1. /// <summary>
+2. /// The 'Component' interface
+3. /// </summary>
+4. public interface Vehicle
+5. {
+6.  string Make { get; }
+7.  string Model { get; }
+8.  double Price { get; }
+9. }
+10.  
+11. /// <summary>
+12. /// The 'ConcreteComponent' class
+13. /// </summary>
+14. public class HondaCity : Vehicle
+15. {
+16.  public string Make
+17.  {
+18.  get { return "HondaCity"; }
+19.  }
+20.  
+21.  public string Model
+22.  {
+23.  get { return "CNG"; }
+24.  }
+25.  
+26.  public double Price
+27.  {
+28.  get { return 1000000; }
+29.  }
+30. }
+31.  
+32. /// <summary>
+33. /// The 'Decorator' abstract class
+34. /// </summary>
+35. public abstract class VehicleDecorator : Vehicle
+36. {
+37.  private Vehicle _vehicle;
+38.  
+39.  public VehicleDecorator(Vehicle vehicle)
+40.  {
+41.  _vehicle = vehicle;
+42.  }
+43.  
 44.  public string Make
 45.  {
 46.  get { return _vehicle.Make; }
