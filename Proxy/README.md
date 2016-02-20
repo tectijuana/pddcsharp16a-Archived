@@ -96,7 +96,7 @@ La ejecución de este programa muestra la diferencia de comportamiento del méto
 
 #RESULTADO:
 
-mostrar la foto 
-Cargar el vídeo 
-Reproducir el vídeo 
+mostrar la foto
+Cargar el vídeo
+Reproducir el vídeo
 Mostrar el vídeo
