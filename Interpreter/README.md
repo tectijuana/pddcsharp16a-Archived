@@ -5,6 +5,8 @@ Favor de explicar el Patron de este directorio a nuestros visitantes.
 ##Concepto
 Proporciona un marco para dar una representación mediante objetos de la gramática de un lenguaje con el objetivo de evaluar, interpretándolas, expresiones escritas en este lenguaje.
 
+![](http://www.godtic.com/blog/wp-content/uploads/2012/11/gof-interpreter.png)
+
 ##Participantes
 Expresión es una clase abstracta que representa cualquier tipo de expresión, es decir cualquier nodo del árbol sintáctico;
 
