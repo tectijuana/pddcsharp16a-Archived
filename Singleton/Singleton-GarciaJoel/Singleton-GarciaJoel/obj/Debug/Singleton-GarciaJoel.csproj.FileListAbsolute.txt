@@ -1,0 +1,9 @@
+C:\Users\Joel\Documents\GitHub\pddcsharp\Singleton\Singleton-GarciaJoel\Singleton-GarciaJoel\bin\Debug\Singleton-GarciaJoel.exe.config
+C:\Users\Joel\Documents\GitHub\pddcsharp\Singleton\Singleton-GarciaJoel\Singleton-GarciaJoel\obj\Debug\Singleton-GarciaJoel.csprojResolveAssemblyReference.cache
+C:\Users\Joel\Documents\GitHub\pddcsharp\Singleton\Singleton-GarciaJoel\Singleton-GarciaJoel\obj\Debug\Singleton_GarciaJoel.Properties.Resources.resources
+C:\Users\Joel\Documents\GitHub\pddcsharp\Singleton\Singleton-GarciaJoel\Singleton-GarciaJoel\obj\Debug\Singleton-GarciaJoel.csproj.GenerateResource.Cache
+C:\Users\Joel\Documents\GitHub\pddcsharp\Singleton\Singleton-GarciaJoel\Singleton-GarciaJoel\bin\Debug\Singleton-GarciaJoel.exe
+C:\Users\Joel\Documents\GitHub\pddcsharp\Singleton\Singleton-GarciaJoel\Singleton-GarciaJoel\bin\Debug\Singleton-GarciaJoel.pdb
+C:\Users\Joel\Documents\GitHub\pddcsharp\Singleton\Singleton-GarciaJoel\Singleton-GarciaJoel\obj\Debug\Singleton-GarciaJoel.exe
+C:\Users\Joel\Documents\GitHub\pddcsharp\Singleton\Singleton-GarciaJoel\Singleton-GarciaJoel\obj\Debug\Singleton-GarciaJoel.pdb
+C:\Users\Joel\Documents\GitHub\pddcsharp\Singleton\Singleton-GarciaJoel\Singleton-GarciaJoel\obj\Debug\Singleton_GarciaJoel.Pruebas.resources
