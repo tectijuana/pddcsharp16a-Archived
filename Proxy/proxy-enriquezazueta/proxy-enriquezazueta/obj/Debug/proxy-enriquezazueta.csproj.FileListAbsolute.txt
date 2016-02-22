@@ -1,0 +1,5 @@
+c:\users\enrique\documents\visual studio 2012\Projects\proxy-enriquezazueta\proxy-enriquezazueta\bin\Debug\proxy-enriquezazueta.exe.config
+c:\users\enrique\documents\visual studio 2012\Projects\proxy-enriquezazueta\proxy-enriquezazueta\bin\Debug\proxy-enriquezazueta.exe
+c:\users\enrique\documents\visual studio 2012\Projects\proxy-enriquezazueta\proxy-enriquezazueta\bin\Debug\proxy-enriquezazueta.pdb
+c:\users\enrique\documents\visual studio 2012\Projects\proxy-enriquezazueta\proxy-enriquezazueta\obj\Debug\proxy-enriquezazueta.exe
+c:\users\enrique\documents\visual studio 2012\Projects\proxy-enriquezazueta\proxy-enriquezazueta\obj\Debug\proxy-enriquezazueta.pdb

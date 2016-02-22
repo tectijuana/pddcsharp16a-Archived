@@ -1,12 +1,7 @@
-Favor de explicar el Patron de este directorio a nuestros visitantes.
+Como Patrón de diseño, el patrón builder (Constructor) es usado para permitir la creación de una variedad de objetos complejos desde un objeto fuente (Producto), el objeto fuente se compone de una variedad de partes que contribuyen individualmente a la creación de cada objeto complejo a través de un conjunto de llamadas a interfaces comunes de la clase Abstract Builder.
 
-Patron Abstract Factory:
+El patrón builder es creacional.
 
-El problema que intenta solucionar este patron es el de crear diferentes familias de objetos, 
-es decir, nos ayuda a crear diferentes objetos de la misma familia, por ejemplo: las bibliotecas, 
-para crear interfaces graficas suelen utilizar este patron y cada familia seria un sistema operativo distinto. 
-Asi pues, el usuario declara un Boton, pero de forma mas interna lo que esta creando es un BotonWindows o un BotonLinux, por ejemplo.
+A menudo, el patrón builder construye el patrón Composite, un patrón estructural.
 
-Este patron esta aconsejado cuando se preve la inclusion de nuevas familias de productos,
-pero puede resultar contraproducente cuando se a;aden nuevos productos o cambian los existentes, 
-puesto que afectaria a todas las familias creadas.
+Intención: Abstrae el proceso de creación de un objeto complejo, centralizando dicho proceso en un único punto, de tal forma que el mismo proceso de construcción pueda crear representaciones diferentes.

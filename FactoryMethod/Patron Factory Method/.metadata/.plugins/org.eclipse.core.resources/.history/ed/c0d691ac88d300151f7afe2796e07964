@@ -1,0 +1,11 @@
+package Patrones_De_Diseño;
+
+public class Escaleno extends Triangulo {
+
+	public Escaleno (int  angulo_A, int  angulo_B , int angulo_C) {
+		
+	}
+	
+	
+	
+}

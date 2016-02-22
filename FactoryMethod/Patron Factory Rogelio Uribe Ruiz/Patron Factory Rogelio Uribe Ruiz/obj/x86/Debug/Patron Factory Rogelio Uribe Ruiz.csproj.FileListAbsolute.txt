@@ -1,0 +1,8 @@
+C:\Users\LabTec\AppData\Local\Temporary Projects\Patron Factory Rogelio Uribe Ruiz\bin\Debug\Patron Factory Rogelio Uribe Ruiz.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\Patron Factory Rogelio Uribe Ruiz\bin\Debug\Patron Factory Rogelio Uribe Ruiz.pdb
+C:\Users\LabTec\AppData\Local\Temporary Projects\Patron Factory Rogelio Uribe Ruiz\obj\x86\Debug\Patron Factory Rogelio Uribe Ruiz.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\Patron Factory Rogelio Uribe Ruiz\obj\x86\Debug\Patron Factory Rogelio Uribe Ruiz.pdb
+C:\Users\LabTec\Documents\Patron Factory Rogelio Uribe Ruiz\Patron Factory Rogelio Uribe Ruiz\obj\x86\Debug\Patron Factory Rogelio Uribe Ruiz.exe
+C:\Users\LabTec\Documents\Patron Factory Rogelio Uribe Ruiz\Patron Factory Rogelio Uribe Ruiz\obj\x86\Debug\Patron Factory Rogelio Uribe Ruiz.pdb
+C:\Users\LabTec\Documents\Patron Factory Rogelio Uribe Ruiz\Patron Factory Rogelio Uribe Ruiz\bin\Debug\Patron Factory Rogelio Uribe Ruiz.exe
+C:\Users\LabTec\Documents\Patron Factory Rogelio Uribe Ruiz\Patron Factory Rogelio Uribe Ruiz\bin\Debug\Patron Factory Rogelio Uribe Ruiz.pdb

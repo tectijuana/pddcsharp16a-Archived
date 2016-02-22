@@ -1,4 +1,4 @@
-Patrón de Diseño Iterator en C#
+#Patrón de Diseño Iterator en C#
 
 Objetivo: “Proporcionar una forma de acceder a los elementos de un objeto agregado de forma secuencial sin exponer sus detalles”.
 

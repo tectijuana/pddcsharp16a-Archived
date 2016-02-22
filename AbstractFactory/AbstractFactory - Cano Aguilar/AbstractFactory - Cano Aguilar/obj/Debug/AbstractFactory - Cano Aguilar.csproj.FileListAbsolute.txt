@@ -1,0 +1,6 @@
+c:\users\joseluis\documents\visual studio 2015\Projects\AbstractFactory - Cano Aguilar\AbstractFactory - Cano Aguilar\bin\Debug\AbstractFactory - Cano Aguilar.exe.config
+c:\users\joseluis\documents\visual studio 2015\Projects\AbstractFactory - Cano Aguilar\AbstractFactory - Cano Aguilar\bin\Debug\AbstractFactory - Cano Aguilar.exe
+c:\users\joseluis\documents\visual studio 2015\Projects\AbstractFactory - Cano Aguilar\AbstractFactory - Cano Aguilar\bin\Debug\AbstractFactory - Cano Aguilar.pdb
+c:\users\joseluis\documents\visual studio 2015\Projects\AbstractFactory - Cano Aguilar\AbstractFactory - Cano Aguilar\obj\Debug\AbstractFactory - Cano Aguilar.csprojResolveAssemblyReference.cache
+c:\users\joseluis\documents\visual studio 2015\Projects\AbstractFactory - Cano Aguilar\AbstractFactory - Cano Aguilar\obj\Debug\AbstractFactory - Cano Aguilar.exe
+c:\users\joseluis\documents\visual studio 2015\Projects\AbstractFactory - Cano Aguilar\AbstractFactory - Cano Aguilar\obj\Debug\AbstractFactory - Cano Aguilar.pdb

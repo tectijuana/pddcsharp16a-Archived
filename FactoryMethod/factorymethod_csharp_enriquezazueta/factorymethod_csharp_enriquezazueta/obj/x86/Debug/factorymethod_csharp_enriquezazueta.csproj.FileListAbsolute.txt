@@ -1,0 +1,6 @@
+C:\Users\LabTec\AppData\Local\Temporary Projects\factorymethod_csharp_enriquezazueta\bin\Debug\factorymethod_csharp_enriquezazueta.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\factorymethod_csharp_enriquezazueta\bin\Debug\factorymethod_csharp_enriquezazueta.pdb
+C:\Users\LabTec\AppData\Local\Temporary Projects\factorymethod_csharp_enriquezazueta\obj\x86\Debug\factorymethod_csharp_enriquezazueta.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\factorymethod_csharp_enriquezazueta\obj\x86\Debug\factorymethod_csharp_enriquezazueta.pdb
+C:\Users\LabTec\Desktop\factorymethod_csharp_enriquezazueta\factorymethod_csharp_enriquezazueta\obj\x86\Debug\factorymethod_csharp_enriquezazueta.exe
+C:\Users\LabTec\Desktop\factorymethod_csharp_enriquezazueta\factorymethod_csharp_enriquezazueta\obj\x86\Debug\factorymethod_csharp_enriquezazueta.pdb

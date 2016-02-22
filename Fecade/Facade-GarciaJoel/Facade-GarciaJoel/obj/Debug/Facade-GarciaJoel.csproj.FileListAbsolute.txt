@@ -1,0 +1,5 @@
+C:\Users\Joel\Documents\GitHub\pddcsharp\Fecade\Facade-GarciaJoel\Facade-GarciaJoel\bin\Debug\Facade-GarciaJoel.exe.config
+C:\Users\Joel\Documents\GitHub\pddcsharp\Fecade\Facade-GarciaJoel\Facade-GarciaJoel\bin\Debug\Facade-GarciaJoel.exe
+C:\Users\Joel\Documents\GitHub\pddcsharp\Fecade\Facade-GarciaJoel\Facade-GarciaJoel\bin\Debug\Facade-GarciaJoel.pdb
+C:\Users\Joel\Documents\GitHub\pddcsharp\Fecade\Facade-GarciaJoel\Facade-GarciaJoel\obj\Debug\Facade-GarciaJoel.exe
+C:\Users\Joel\Documents\GitHub\pddcsharp\Fecade\Facade-GarciaJoel\Facade-GarciaJoel\obj\Debug\Facade-GarciaJoel.pdb

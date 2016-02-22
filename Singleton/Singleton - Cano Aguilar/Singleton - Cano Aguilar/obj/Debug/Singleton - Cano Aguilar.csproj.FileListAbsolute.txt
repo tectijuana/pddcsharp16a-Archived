@@ -1,0 +1,11 @@
+c:\users\joseluis\documents\visual studio 2015\Projects\Singleton - Cano Aguilar\Singleton - Cano Aguilar\bin\Debug\Singleton - Cano Aguilar.exe.config
+c:\users\joseluis\documents\visual studio 2015\Projects\Singleton - Cano Aguilar\Singleton - Cano Aguilar\bin\Debug\Singleton - Cano Aguilar.exe
+c:\users\joseluis\documents\visual studio 2015\Projects\Singleton - Cano Aguilar\Singleton - Cano Aguilar\bin\Debug\Singleton - Cano Aguilar.pdb
+c:\users\joseluis\documents\visual studio 2015\Projects\Singleton - Cano Aguilar\Singleton - Cano Aguilar\obj\Debug\Singleton - Cano Aguilar.csprojResolveAssemblyReference.cache
+c:\users\joseluis\documents\visual studio 2015\Projects\Singleton - Cano Aguilar\Singleton - Cano Aguilar\obj\Debug\Singleton___Cano_Aguilar.ConSingleton.resources
+c:\users\joseluis\documents\visual studio 2015\Projects\Singleton - Cano Aguilar\Singleton - Cano Aguilar\obj\Debug\Singleton___Cano_Aguilar.Form1.resources
+c:\users\joseluis\documents\visual studio 2015\Projects\Singleton - Cano Aguilar\Singleton - Cano Aguilar\obj\Debug\Singleton___Cano_Aguilar.Properties.Resources.resources
+c:\users\joseluis\documents\visual studio 2015\Projects\Singleton - Cano Aguilar\Singleton - Cano Aguilar\obj\Debug\Singleton___Cano_Aguilar.SinSingleton.resources
+c:\users\joseluis\documents\visual studio 2015\Projects\Singleton - Cano Aguilar\Singleton - Cano Aguilar\obj\Debug\Singleton - Cano Aguilar.csproj.GenerateResource.Cache
+c:\users\joseluis\documents\visual studio 2015\Projects\Singleton - Cano Aguilar\Singleton - Cano Aguilar\obj\Debug\Singleton - Cano Aguilar.exe
+c:\users\joseluis\documents\visual studio 2015\Projects\Singleton - Cano Aguilar\Singleton - Cano Aguilar\obj\Debug\Singleton - Cano Aguilar.pdb
