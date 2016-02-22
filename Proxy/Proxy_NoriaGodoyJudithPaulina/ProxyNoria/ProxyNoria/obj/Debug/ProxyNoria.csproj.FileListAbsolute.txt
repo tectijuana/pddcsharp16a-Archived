@@ -1,0 +1,6 @@
+D:\8 Semestre\Patrones de Diseño\ProxyNoria\ProxyNoria\bin\Debug\ProxyNoria.exe.config
+D:\8 Semestre\Patrones de Diseño\ProxyNoria\ProxyNoria\bin\Debug\ProxyNoria.exe
+D:\8 Semestre\Patrones de Diseño\ProxyNoria\ProxyNoria\bin\Debug\ProxyNoria.pdb
+D:\8 Semestre\Patrones de Diseño\ProxyNoria\ProxyNoria\obj\Debug\ProxyNoria.csprojResolveAssemblyReference.cache
+D:\8 Semestre\Patrones de Diseño\ProxyNoria\ProxyNoria\obj\Debug\ProxyNoria.exe
+D:\8 Semestre\Patrones de Diseño\ProxyNoria\ProxyNoria\obj\Debug\ProxyNoria.pdb
