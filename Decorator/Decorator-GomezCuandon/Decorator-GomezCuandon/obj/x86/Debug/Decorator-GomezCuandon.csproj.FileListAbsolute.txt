@@ -1,0 +1,6 @@
+C:\Users\LabTec\AppData\Local\Temporary Projects\Decorator-GomezCuandon\bin\Debug\Decorator-GomezCuandon.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\Decorator-GomezCuandon\bin\Debug\Decorator-GomezCuandon.pdb
+C:\Users\LabTec\AppData\Local\Temporary Projects\Decorator-GomezCuandon\obj\x86\Debug\Decorator-GomezCuandon.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\Decorator-GomezCuandon\obj\x86\Debug\Decorator-GomezCuandon.pdb
+C:\Users\LabTec\Desktop\Decorator-GomezCuandon\Decorator-GomezCuandon\obj\x86\Debug\Decorator-GomezCuandon.exe
+C:\Users\LabTec\Desktop\Decorator-GomezCuandon\Decorator-GomezCuandon\obj\x86\Debug\Decorator-GomezCuandon.pdb
