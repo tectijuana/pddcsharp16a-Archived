@@ -1,0 +1,8 @@
+C:\Users\LabTec\AppData\Local\Temporary Projects\Proxy-GarciaJoel\bin\Debug\Proxy-GarciaJoel.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\Proxy-GarciaJoel\bin\Debug\Proxy-GarciaJoel.pdb
+C:\Users\LabTec\AppData\Local\Temporary Projects\Proxy-GarciaJoel\obj\x86\Debug\Proxy-GarciaJoel.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\Proxy-GarciaJoel\obj\x86\Debug\Proxy-GarciaJoel.pdb
+C:\Users\LabTec\Desktop\Proxy-GarciaJoel\Proxy-GarciaJoel\obj\x86\Debug\Proxy-GarciaJoel.exe
+C:\Users\LabTec\Desktop\Proxy-GarciaJoel\Proxy-GarciaJoel\obj\x86\Debug\Proxy-GarciaJoel.pdb
+C:\Users\LabTec\Desktop\Proxy-GarciaJoel\Proxy-GarciaJoel\bin\Debug\Proxy-GarciaJoel.exe
+C:\Users\LabTec\Desktop\Proxy-GarciaJoel\Proxy-GarciaJoel\bin\Debug\Proxy-GarciaJoel.pdb
