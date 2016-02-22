@@ -1,0 +1,6 @@
+C:\Users\LabTec\AppData\Local\Temporary Projects\Iterator-GarciaJoel\bin\Debug\Iterator-GarciaJoel.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\Iterator-GarciaJoel\bin\Debug\Iterator-GarciaJoel.pdb
+C:\Users\LabTec\AppData\Local\Temporary Projects\Iterator-GarciaJoel\obj\x86\Debug\Iterator-GarciaJoel.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\Iterator-GarciaJoel\obj\x86\Debug\Iterator-GarciaJoel.pdb
+C:\Users\LabTec\Desktop\Iterator-GarciaJoel\Iterator-GarciaJoel\obj\x86\Debug\Iterator-GarciaJoel.exe
+C:\Users\LabTec\Desktop\Iterator-GarciaJoel\Iterator-GarciaJoel\obj\x86\Debug\Iterator-GarciaJoel.pdb
