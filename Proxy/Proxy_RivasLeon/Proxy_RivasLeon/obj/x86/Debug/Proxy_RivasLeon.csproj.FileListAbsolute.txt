@@ -1,0 +1,6 @@
+C:\Users\LabTec\AppData\Local\Temporary Projects\Proxy_RivasLeon\bin\Debug\Proxy_RivasLeon.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\Proxy_RivasLeon\bin\Debug\Proxy_RivasLeon.pdb
+C:\Users\LabTec\AppData\Local\Temporary Projects\Proxy_RivasLeon\obj\x86\Debug\Proxy_RivasLeon.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\Proxy_RivasLeon\obj\x86\Debug\Proxy_RivasLeon.pdb
+C:\Users\LabTec\Desktop\Proxy_RivasLeon\Proxy_RivasLeon\obj\x86\Debug\Proxy_RivasLeon.exe
+C:\Users\LabTec\Desktop\Proxy_RivasLeon\Proxy_RivasLeon\obj\x86\Debug\Proxy_RivasLeon.pdb

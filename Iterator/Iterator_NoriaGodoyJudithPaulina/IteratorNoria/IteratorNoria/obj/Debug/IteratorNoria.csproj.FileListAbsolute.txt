@@ -1,0 +1,6 @@
+D:\8 Semestre\Patrones de Diseño\IteratorNoria\IteratorNoria\bin\Debug\IteratorNoria.exe.config
+D:\8 Semestre\Patrones de Diseño\IteratorNoria\IteratorNoria\bin\Debug\IteratorNoria.exe
+D:\8 Semestre\Patrones de Diseño\IteratorNoria\IteratorNoria\bin\Debug\IteratorNoria.pdb
+D:\8 Semestre\Patrones de Diseño\IteratorNoria\IteratorNoria\obj\Debug\IteratorNoria.csprojResolveAssemblyReference.cache
+D:\8 Semestre\Patrones de Diseño\IteratorNoria\IteratorNoria\obj\Debug\IteratorNoria.exe
+D:\8 Semestre\Patrones de Diseño\IteratorNoria\IteratorNoria\obj\Debug\IteratorNoria.pdb
