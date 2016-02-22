@@ -1,0 +1,8 @@
+C:\Users\BGAG\AppData\Local\Temporary Projects\Patrón de Diseño (Iterator CSharp)\bin\Debug\Patrón de Diseño (Iterator CSharp).exe
+C:\Users\BGAG\AppData\Local\Temporary Projects\Patrón de Diseño (Iterator CSharp)\bin\Debug\Patrón de Diseño (Iterator CSharp).pdb
+C:\Users\BGAG\AppData\Local\Temporary Projects\Patrón de Diseño (Iterator CSharp)\obj\x86\Debug\Patrón de Diseño (Iterator CSharp).exe
+C:\Users\BGAG\AppData\Local\Temporary Projects\Patrón de Diseño (Iterator CSharp)\obj\x86\Debug\Patrón de Diseño (Iterator CSharp).pdb
+C:\Users\BGAG\Desktop\Semestre 7mo\Patrones de Diseño\Patrón de Diseño (Iterator CSharp)\Patrón de Diseño (Iterator CSharp)\obj\x86\Debug\Patrón de Diseño (Iterator CSharp).exe
+C:\Users\BGAG\Desktop\Semestre 7mo\Patrones de Diseño\Patrón de Diseño (Iterator CSharp)\Patrón de Diseño (Iterator CSharp)\obj\x86\Debug\Patrón de Diseño (Iterator CSharp).pdb
+C:\Users\BGAG\Desktop\Semestre 7mo\Patrones de Diseño\Patrón de Diseño (Iterator CSharp)\Patrón de Diseño (Iterator CSharp)\bin\Debug\Patrón de Diseño (Iterator CSharp).exe
+C:\Users\BGAG\Desktop\Semestre 7mo\Patrones de Diseño\Patrón de Diseño (Iterator CSharp)\Patrón de Diseño (Iterator CSharp)\bin\Debug\Patrón de Diseño (Iterator CSharp).pdb
