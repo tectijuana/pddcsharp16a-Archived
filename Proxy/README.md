@@ -24,8 +24,8 @@ El objeto fotografía se llama el proxy del vídeo. Procede a la creación del s
 
 #EJEMPLO C# CONSOLA
 
-using System;
-using System.Collections.Generic;
+     using System;
+     using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 namespace ConsoleApplication9
