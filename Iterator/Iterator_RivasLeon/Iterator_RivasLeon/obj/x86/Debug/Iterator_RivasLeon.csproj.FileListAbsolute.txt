@@ -1,0 +1,4 @@
+C:\Users\LabTec\Desktop\Iterator_RivasLeon\Iterator_RivasLeon\bin\Debug\Iterator_RivasLeon.exe
+C:\Users\LabTec\Desktop\Iterator_RivasLeon\Iterator_RivasLeon\bin\Debug\Iterator_RivasLeon.pdb
+C:\Users\LabTec\Desktop\Iterator_RivasLeon\Iterator_RivasLeon\obj\x86\Debug\Iterator_RivasLeon.exe
+C:\Users\LabTec\Desktop\Iterator_RivasLeon\Iterator_RivasLeon\obj\x86\Debug\Iterator_RivasLeon.pdb
