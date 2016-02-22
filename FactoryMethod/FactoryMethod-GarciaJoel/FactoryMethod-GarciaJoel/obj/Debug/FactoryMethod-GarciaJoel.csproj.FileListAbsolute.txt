@@ -1,0 +1,6 @@
+C:\Users\Joel\Documents\GitHub\pddcsharp\FactoryMethod\FactoryMethod-GarciaJoel\FactoryMethod-GarciaJoel\bin\Debug\FactoryMethod-GarciaJoel.exe.config
+C:\Users\Joel\Documents\GitHub\pddcsharp\FactoryMethod\FactoryMethod-GarciaJoel\FactoryMethod-GarciaJoel\bin\Debug\FactoryMethod-GarciaJoel.exe
+C:\Users\Joel\Documents\GitHub\pddcsharp\FactoryMethod\FactoryMethod-GarciaJoel\FactoryMethod-GarciaJoel\bin\Debug\FactoryMethod-GarciaJoel.pdb
+C:\Users\Joel\Documents\GitHub\pddcsharp\FactoryMethod\FactoryMethod-GarciaJoel\FactoryMethod-GarciaJoel\obj\Debug\FactoryMethod-GarciaJoel.csprojResolveAssemblyReference.cache
+C:\Users\Joel\Documents\GitHub\pddcsharp\FactoryMethod\FactoryMethod-GarciaJoel\FactoryMethod-GarciaJoel\obj\Debug\FactoryMethod-GarciaJoel.exe
+C:\Users\Joel\Documents\GitHub\pddcsharp\FactoryMethod\FactoryMethod-GarciaJoel\FactoryMethod-GarciaJoel\obj\Debug\FactoryMethod-GarciaJoel.pdb

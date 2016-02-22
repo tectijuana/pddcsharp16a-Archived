@@ -1,0 +1,6 @@
+c:\users\joseluis\documents\visual studio 2015\Projects\Adapter - Cano Aguilar\Adapter - Cano Aguilar\bin\Debug\Adapter - Cano Aguilar.exe.config
+c:\users\joseluis\documents\visual studio 2015\Projects\Adapter - Cano Aguilar\Adapter - Cano Aguilar\obj\Debug\Adapter - Cano Aguilar.csprojResolveAssemblyReference.cache
+c:\users\joseluis\documents\visual studio 2015\Projects\Adapter - Cano Aguilar\Adapter - Cano Aguilar\bin\Debug\Adapter - Cano Aguilar.exe
+c:\users\joseluis\documents\visual studio 2015\Projects\Adapter - Cano Aguilar\Adapter - Cano Aguilar\bin\Debug\Adapter - Cano Aguilar.pdb
+c:\users\joseluis\documents\visual studio 2015\Projects\Adapter - Cano Aguilar\Adapter - Cano Aguilar\obj\Debug\Adapter - Cano Aguilar.exe
+c:\users\joseluis\documents\visual studio 2015\Projects\Adapter - Cano Aguilar\Adapter - Cano Aguilar\obj\Debug\Adapter - Cano Aguilar.pdb
