@@ -1,0 +1,6 @@
+C:\Users\LabTec\AppData\Local\Temporary Projects\Proxy-GomezCuandon\bin\Debug\Proxy-GomezCuandon.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\Proxy-GomezCuandon\bin\Debug\Proxy-GomezCuandon.pdb
+C:\Users\LabTec\AppData\Local\Temporary Projects\Proxy-GomezCuandon\obj\x86\Debug\Proxy-GomezCuandon.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\Proxy-GomezCuandon\obj\x86\Debug\Proxy-GomezCuandon.pdb
+C:\Users\LabTec\Desktop\Proxy-GomezCuandon\Proxy-GomezCuandon\obj\x86\Debug\Proxy-GomezCuandon.exe
+C:\Users\LabTec\Desktop\Proxy-GomezCuandon\Proxy-GomezCuandon\obj\x86\Debug\Proxy-GomezCuandon.pdb
