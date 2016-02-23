@@ -1,4 +1,0 @@
-C:\Users\Mike\Desktop\PDDCommand\PDDCommand\bin\Debug\PDDCommand.exe
-C:\Users\Mike\Desktop\PDDCommand\PDDCommand\bin\Debug\PDDCommand.pdb
-C:\Users\Mike\Desktop\PDDCommand\PDDCommand\obj\x86\Debug\PDDCommand.exe
-C:\Users\Mike\Desktop\PDDCommand\PDDCommand\obj\x86\Debug\PDDCommand.pdb

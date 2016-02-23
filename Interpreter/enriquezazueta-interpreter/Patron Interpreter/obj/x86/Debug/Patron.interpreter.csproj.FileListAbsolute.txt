@@ -1,0 +1,2 @@
+C:\Users\LabTec\Desktop\Patron Interpreter\Patron Interpreter\obj\x86\Debug\Patron interpreter.exe
+C:\Users\LabTec\Desktop\Patron Interpreter\Patron Interpreter\obj\x86\Debug\Patron interpreter.pdb
