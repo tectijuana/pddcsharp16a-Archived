@@ -1,0 +1,4 @@
+c:\users\evelyn\documents\visual studio 2010\Projects\P.Composite\P.Composite\bin\Debug\P.Composite.exe
+c:\users\evelyn\documents\visual studio 2010\Projects\P.Composite\P.Composite\bin\Debug\P.Composite.pdb
+c:\users\evelyn\documents\visual studio 2010\Projects\P.Composite\P.Composite\obj\x86\Debug\P.Composite.exe
+c:\users\evelyn\documents\visual studio 2010\Projects\P.Composite\P.Composite\obj\x86\Debug\P.Composite.pdb
