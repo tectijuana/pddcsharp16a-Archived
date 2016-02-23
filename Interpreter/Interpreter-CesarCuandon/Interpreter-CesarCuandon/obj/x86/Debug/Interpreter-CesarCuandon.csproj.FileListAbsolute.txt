@@ -1,0 +1,6 @@
+C:\Users\LabTec\AppData\Local\Temporary Projects\Interpreter-CesarCuandon\bin\Debug\Interpreter-CesarCuandon.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\Interpreter-CesarCuandon\bin\Debug\Interpreter-CesarCuandon.pdb
+C:\Users\LabTec\AppData\Local\Temporary Projects\Interpreter-CesarCuandon\obj\x86\Debug\Interpreter-CesarCuandon.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\Interpreter-CesarCuandon\obj\x86\Debug\Interpreter-CesarCuandon.pdb
+C:\Users\LabTec\Desktop\Interpreter-CesarCuandon\Interpreter-CesarCuandon\obj\x86\Debug\Interpreter-CesarCuandon.exe
+C:\Users\LabTec\Desktop\Interpreter-CesarCuandon\Interpreter-CesarCuandon\obj\x86\Debug\Interpreter-CesarCuandon.pdb
