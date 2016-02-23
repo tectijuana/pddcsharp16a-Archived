@@ -1,0 +1,6 @@
+C:\Users\LabTec\AppData\Local\Temporary Projects\Iterator-GomezCuandon\bin\Debug\Iterator-GomezCuandon.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\Iterator-GomezCuandon\bin\Debug\Iterator-GomezCuandon.pdb
+C:\Users\LabTec\AppData\Local\Temporary Projects\Iterator-GomezCuandon\obj\x86\Debug\Iterator-GomezCuandon.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\Iterator-GomezCuandon\obj\x86\Debug\Iterator-GomezCuandon.pdb
+C:\Users\LabTec\Desktop\Iterator-GomezCuandon\Iterator-GomezCuandon\obj\x86\Debug\Iterator-GomezCuandon.exe
+C:\Users\LabTec\Desktop\Iterator-GomezCuandon\Iterator-GomezCuandon\obj\x86\Debug\Iterator-GomezCuandon.pdb
