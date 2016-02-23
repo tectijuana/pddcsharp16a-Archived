@@ -1,0 +1,6 @@
+C:\Users\LabTec\AppData\Local\Temporary Projects\Composite_RivasLeon\bin\Debug\Composite_RivasLeon.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\Composite_RivasLeon\bin\Debug\Composite_RivasLeon.pdb
+C:\Users\LabTec\AppData\Local\Temporary Projects\Composite_RivasLeon\obj\x86\Debug\Composite_RivasLeon.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\Composite_RivasLeon\obj\x86\Debug\Composite_RivasLeon.pdb
+C:\Users\LabTec\Desktop\Composite_RivasLeon\Composite_RivasLeon\obj\x86\Debug\Composite_RivasLeon.exe
+C:\Users\LabTec\Desktop\Composite_RivasLeon\Composite_RivasLeon\obj\x86\Debug\Composite_RivasLeon.pdb
