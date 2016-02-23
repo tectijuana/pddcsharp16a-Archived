@@ -1,0 +1,6 @@
+C:\Users\LabTec\AppData\Local\Temporary Projects\Interpreter_RivasLeonPaul\bin\Debug\Interpreter_RivasLeonPaul.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\Interpreter_RivasLeonPaul\bin\Debug\Interpreter_RivasLeonPaul.pdb
+C:\Users\LabTec\AppData\Local\Temporary Projects\Interpreter_RivasLeonPaul\obj\x86\Debug\Interpreter_RivasLeonPaul.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\Interpreter_RivasLeonPaul\obj\x86\Debug\Interpreter_RivasLeonPaul.pdb
+C:\Users\LabTec\Desktop\Interpreter_RivasLeonPaul\Interpreter_RivasLeonPaul\obj\x86\Debug\Interpreter_RivasLeonPaul.exe
+C:\Users\LabTec\Desktop\Interpreter_RivasLeonPaul\Interpreter_RivasLeonPaul\obj\x86\Debug\Interpreter_RivasLeonPaul.pdb
