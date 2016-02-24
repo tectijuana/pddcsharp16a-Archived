@@ -1,0 +1,6 @@
+C:\Users\josem\Desktop\Memento-JoseOrduno\Memento-JoseOrduno\bin\Debug\Memento-JoseOrduno.exe.config
+C:\Users\josem\Desktop\Memento-JoseOrduno\Memento-JoseOrduno\bin\Debug\Memento-JoseOrduno.exe
+C:\Users\josem\Desktop\Memento-JoseOrduno\Memento-JoseOrduno\bin\Debug\Memento-JoseOrduno.pdb
+C:\Users\josem\Desktop\Memento-JoseOrduno\Memento-JoseOrduno\obj\Debug\Memento-JoseOrduno.csprojResolveAssemblyReference.cache
+C:\Users\josem\Desktop\Memento-JoseOrduno\Memento-JoseOrduno\obj\Debug\Memento-JoseOrduno.exe
+C:\Users\josem\Desktop\Memento-JoseOrduno\Memento-JoseOrduno\obj\Debug\Memento-JoseOrduno.pdb
