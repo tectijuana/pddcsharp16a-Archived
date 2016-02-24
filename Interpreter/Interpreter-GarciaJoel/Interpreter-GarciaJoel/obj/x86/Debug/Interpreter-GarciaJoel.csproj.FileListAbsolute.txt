@@ -1,0 +1,6 @@
+C:\Users\LabTec\AppData\Local\Temporary Projects\Interpreter-GarciaJoel\bin\Debug\Interpreter-GarciaJoel.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\Interpreter-GarciaJoel\bin\Debug\Interpreter-GarciaJoel.pdb
+C:\Users\LabTec\AppData\Local\Temporary Projects\Interpreter-GarciaJoel\obj\x86\Debug\Interpreter-GarciaJoel.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\Interpreter-GarciaJoel\obj\x86\Debug\Interpreter-GarciaJoel.pdb
+C:\Users\LabTec\Desktop\Interpreter-GarciaJoel\Interpreter-GarciaJoel\obj\x86\Debug\Interpreter-GarciaJoel.exe
+C:\Users\LabTec\Desktop\Interpreter-GarciaJoel\Interpreter-GarciaJoel\obj\x86\Debug\Interpreter-GarciaJoel.pdb
