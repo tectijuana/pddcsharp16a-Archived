@@ -1,0 +1,6 @@
+C:\Users\LabTec\AppData\Local\Temporary Projects\Composite-CesarCuandon\bin\Debug\Composite-CesarCuandon.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\Composite-CesarCuandon\bin\Debug\Composite-CesarCuandon.pdb
+C:\Users\LabTec\AppData\Local\Temporary Projects\Composite-CesarCuandon\obj\x86\Debug\Composite-CesarCuandon.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\Composite-CesarCuandon\obj\x86\Debug\Composite-CesarCuandon.pdb
+C:\Users\LabTec\Desktop\Composite-CesarCuandon\Composite-CesarCuandon\obj\x86\Debug\Composite-CesarCuandon.exe
+C:\Users\LabTec\Desktop\Composite-CesarCuandon\Composite-CesarCuandon\obj\x86\Debug\Composite-CesarCuandon.pdb
