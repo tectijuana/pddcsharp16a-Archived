@@ -1,0 +1,5 @@
+C:\Users\LabTec\Desktop\Memento-GarciaJoel\Memento-GarciaJoel\bin\Debug\Memento-GarciaJoel.exe
+C:\Users\LabTec\Desktop\Memento-GarciaJoel\Memento-GarciaJoel\bin\Debug\Memento-GarciaJoel.pdb
+C:\Users\LabTec\Desktop\Memento-GarciaJoel\Memento-GarciaJoel\obj\x86\Debug\Memento-GarciaJoel.csprojResolveAssemblyReference.cache
+C:\Users\LabTec\Desktop\Memento-GarciaJoel\Memento-GarciaJoel\obj\x86\Debug\Memento-GarciaJoel.exe
+C:\Users\LabTec\Desktop\Memento-GarciaJoel\Memento-GarciaJoel\obj\x86\Debug\Memento-GarciaJoel.pdb
