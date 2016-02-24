@@ -1,0 +1,4 @@
+C:\Users\LabTec\AppData\Local\Temporary Projects\Patron Composite\bin\Debug\Patron Composite.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\Patron Composite\bin\Debug\Patron Composite.pdb
+C:\Users\LabTec\AppData\Local\Temporary Projects\Patron Composite\obj\x86\Debug\Patron Composite.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\Patron Composite\obj\x86\Debug\Patron Composite.pdb

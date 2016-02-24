@@ -1,0 +1,4 @@
+c:\users\evelyn\documents\visual studio 2010\Projects\P.Memento EvelynMacedo\P.Memento EvelynMacedo\bin\Debug\P.Memento EvelynMacedo.exe
+c:\users\evelyn\documents\visual studio 2010\Projects\P.Memento EvelynMacedo\P.Memento EvelynMacedo\bin\Debug\P.Memento EvelynMacedo.pdb
+c:\users\evelyn\documents\visual studio 2010\Projects\P.Memento EvelynMacedo\P.Memento EvelynMacedo\obj\x86\Debug\P.Memento EvelynMacedo.exe
+c:\users\evelyn\documents\visual studio 2010\Projects\P.Memento EvelynMacedo\P.Memento EvelynMacedo\obj\x86\Debug\P.Memento EvelynMacedo.pdb

@@ -1,0 +1,6 @@
+C:\Users\josem\Desktop\Orduno Iterator\Orduno Iterator\bin\Debug\Orduno Iterator.exe.config
+C:\Users\josem\Desktop\Orduno Iterator\Orduno Iterator\obj\Debug\Orduno Iterator.csprojResolveAssemblyReference.cache
+C:\Users\josem\Desktop\Orduno Iterator\Orduno Iterator\bin\Debug\Orduno Iterator.exe
+C:\Users\josem\Desktop\Orduno Iterator\Orduno Iterator\bin\Debug\Orduno Iterator.pdb
+C:\Users\josem\Desktop\Orduno Iterator\Orduno Iterator\obj\Debug\Orduno Iterator.exe
+C:\Users\josem\Desktop\Orduno Iterator\Orduno Iterator\obj\Debug\Orduno Iterator.pdb

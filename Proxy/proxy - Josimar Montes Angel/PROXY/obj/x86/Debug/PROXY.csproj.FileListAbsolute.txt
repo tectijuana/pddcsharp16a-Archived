@@ -1,0 +1,7 @@
+H:\patrones\proxy - Josimar Montes Angel\Arellano Garcia Brenda Gabriela (PROXY)\bin\Debug\Arellano Garcia Brenda Gabriela (PROXY).exe
+H:\patrones\proxy - Josimar Montes Angel\Arellano Garcia Brenda Gabriela (PROXY)\bin\Debug\Arellano Garcia Brenda Gabriela (PROXY).pdb
+H:\patrones\proxy - Josimar Montes Angel\Arellano Garcia Brenda Gabriela (PROXY)\obj\x86\Debug\PROXY.csprojResolveAssemblyReference.cache
+H:\patrones\proxy - Josimar Montes Angel\Arellano Garcia Brenda Gabriela (PROXY)\obj\x86\Debug\Arellano Garcia Brenda Gabriela (PROXY).exe
+H:\patrones\proxy - Josimar Montes Angel\Arellano Garcia Brenda Gabriela (PROXY)\obj\x86\Debug\Arellano Garcia Brenda Gabriela (PROXY).pdb
+H:\patrones\proxy - Josimar Montes Angel\PROXY\obj\x86\Debug\Arellano Garcia Brenda Gabriela (PROXY).exe
+H:\patrones\proxy - Josimar Montes Angel\PROXY\obj\x86\Debug\Arellano Garcia Brenda Gabriela (PROXY).pdb
