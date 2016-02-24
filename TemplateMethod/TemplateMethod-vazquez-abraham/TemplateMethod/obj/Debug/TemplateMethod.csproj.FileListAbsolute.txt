@@ -1,0 +1,6 @@
+C:\Users\Joel\Documents\pddcsharp\TemplateMethod\TemplateMethod\TemplateMethod\bin\Debug\TemplateMethod.exe.config
+C:\Users\Joel\Documents\pddcsharp\TemplateMethod\TemplateMethod\TemplateMethod\bin\Debug\TemplateMethod.exe
+C:\Users\Joel\Documents\pddcsharp\TemplateMethod\TemplateMethod\TemplateMethod\bin\Debug\TemplateMethod.pdb
+C:\Users\Joel\Documents\pddcsharp\TemplateMethod\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.csprojResolveAssemblyReference.cache
+C:\Users\Joel\Documents\pddcsharp\TemplateMethod\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.exe
+C:\Users\Joel\Documents\pddcsharp\TemplateMethod\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.pdb
