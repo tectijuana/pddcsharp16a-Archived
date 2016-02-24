@@ -1,0 +1,5 @@
+D:\8 Semestre\Patrones de Diseño\InterpreterNoria\InterpreterNoria\bin\Debug\InterpreterNoria.exe.config
+D:\8 Semestre\Patrones de Diseño\InterpreterNoria\InterpreterNoria\bin\Debug\InterpreterNoria.exe
+D:\8 Semestre\Patrones de Diseño\InterpreterNoria\InterpreterNoria\bin\Debug\InterpreterNoria.pdb
+D:\8 Semestre\Patrones de Diseño\InterpreterNoria\InterpreterNoria\obj\Debug\InterpreterNoria.exe
+D:\8 Semestre\Patrones de Diseño\InterpreterNoria\InterpreterNoria\obj\Debug\InterpreterNoria.pdb

@@ -1,0 +1,6 @@
+D:\8 Semestre\Patrones de Diseño\CompositeNoria\CompositeNoria\bin\Debug\CompositeNoria.exe.config
+D:\8 Semestre\Patrones de Diseño\CompositeNoria\CompositeNoria\bin\Debug\CompositeNoria.exe
+D:\8 Semestre\Patrones de Diseño\CompositeNoria\CompositeNoria\bin\Debug\CompositeNoria.pdb
+D:\8 Semestre\Patrones de Diseño\CompositeNoria\CompositeNoria\obj\Debug\CompositeNoria.csprojResolveAssemblyReference.cache
+D:\8 Semestre\Patrones de Diseño\CompositeNoria\CompositeNoria\obj\Debug\CompositeNoria.exe
+D:\8 Semestre\Patrones de Diseño\CompositeNoria\CompositeNoria\obj\Debug\CompositeNoria.pdb

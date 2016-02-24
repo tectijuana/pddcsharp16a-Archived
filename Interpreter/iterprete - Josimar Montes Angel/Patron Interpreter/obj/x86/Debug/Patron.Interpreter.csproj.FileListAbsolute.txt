@@ -1,0 +1,5 @@
+C:\Users\Evelyn\Documents\Visual Studio 2010\Projects\Patron Interpreter\Patron Interpreter\bin\Debug\Patron Interpreter.exe
+C:\Users\Evelyn\Documents\Visual Studio 2010\Projects\Patron Interpreter\Patron Interpreter\bin\Debug\Patron Interpreter.pdb
+C:\Users\Evelyn\Documents\Visual Studio 2010\Projects\Patron Interpreter\Patron Interpreter\obj\x86\Debug\Patron Interpreter.csprojResolveAssemblyReference.cache
+C:\Users\Evelyn\Documents\Visual Studio 2010\Projects\Patron Interpreter\Patron Interpreter\obj\x86\Debug\Patron Interpreter.exe
+C:\Users\Evelyn\Documents\Visual Studio 2010\Projects\Patron Interpreter\Patron Interpreter\obj\x86\Debug\Patron Interpreter.pdb
