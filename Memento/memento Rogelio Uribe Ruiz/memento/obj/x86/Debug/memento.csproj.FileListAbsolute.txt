@@ -1,0 +1,4 @@
+C:\Users\LabTec\AppData\Local\Temporary Projects\memento\bin\Debug\memento.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\memento\bin\Debug\memento.pdb
+C:\Users\LabTec\AppData\Local\Temporary Projects\memento\obj\x86\Debug\memento.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\memento\obj\x86\Debug\memento.pdb
