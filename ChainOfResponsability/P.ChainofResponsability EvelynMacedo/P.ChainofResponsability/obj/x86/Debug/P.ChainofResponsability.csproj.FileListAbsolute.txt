@@ -1,0 +1,4 @@
+c:\users\evelyn\documents\visual studio 2010\Projects\P.ChainofResponsability\P.ChainofResponsability\bin\Debug\P.ChainofResponsability.exe
+c:\users\evelyn\documents\visual studio 2010\Projects\P.ChainofResponsability\P.ChainofResponsability\bin\Debug\P.ChainofResponsability.pdb
+c:\users\evelyn\documents\visual studio 2010\Projects\P.ChainofResponsability\P.ChainofResponsability\obj\x86\Debug\P.ChainofResponsability.exe
+c:\users\evelyn\documents\visual studio 2010\Projects\P.ChainofResponsability\P.ChainofResponsability\obj\x86\Debug\P.ChainofResponsability.pdb
