@@ -1,6 +1,0 @@
-C:\Users\Joel\Documents\Visual Studio 2015\Projects\Flyweight-GarciaJoel\Flyweight-GarciaJoel\bin\Debug\Flyweight-GarciaJoel.exe.config
-C:\Users\Joel\Documents\Visual Studio 2015\Projects\Flyweight-GarciaJoel\Flyweight-GarciaJoel\bin\Debug\Flyweight-GarciaJoel.exe
-C:\Users\Joel\Documents\Visual Studio 2015\Projects\Flyweight-GarciaJoel\Flyweight-GarciaJoel\bin\Debug\Flyweight-GarciaJoel.pdb
-C:\Users\Joel\Documents\Visual Studio 2015\Projects\Flyweight-GarciaJoel\Flyweight-GarciaJoel\obj\Debug\Flyweight-GarciaJoel.csprojResolveAssemblyReference.cache
-C:\Users\Joel\Documents\Visual Studio 2015\Projects\Flyweight-GarciaJoel\Flyweight-GarciaJoel\obj\Debug\Flyweight-GarciaJoel.exe
-C:\Users\Joel\Documents\Visual Studio 2015\Projects\Flyweight-GarciaJoel\Flyweight-GarciaJoel\obj\Debug\Flyweight-GarciaJoel.pdb

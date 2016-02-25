@@ -1,0 +1,6 @@
+C:\Users\LabTec\AppData\Local\Temporary Projects\Bridge-CesarCuandon\bin\Debug\Bridge-CesarCuandon.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\Bridge-CesarCuandon\bin\Debug\Bridge-CesarCuandon.pdb
+C:\Users\LabTec\AppData\Local\Temporary Projects\Bridge-CesarCuandon\obj\x86\Debug\Bridge-CesarCuandon.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\Bridge-CesarCuandon\obj\x86\Debug\Bridge-CesarCuandon.pdb
+C:\Users\LabTec\Desktop\Bridge-CesarCuandon\Bridge-CesarCuandon\obj\x86\Debug\Bridge-CesarCuandon.exe
+C:\Users\LabTec\Desktop\Bridge-CesarCuandon\Bridge-CesarCuandon\obj\x86\Debug\Bridge-CesarCuandon.pdb

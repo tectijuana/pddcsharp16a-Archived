@@ -1,4 +1,0 @@
-C:\Users\LabTec\documents\visual studio 2010\Projects\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe
-C:\Users\LabTec\documents\visual studio 2010\Projects\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.pdb
-C:\Users\LabTec\documents\visual studio 2010\Projects\AbstractFactory\AbstractFactory\obj\x86\Debug\AbstractFactory.exe
-C:\Users\LabTec\documents\visual studio 2010\Projects\AbstractFactory\AbstractFactory\obj\x86\Debug\AbstractFactory.pdb
