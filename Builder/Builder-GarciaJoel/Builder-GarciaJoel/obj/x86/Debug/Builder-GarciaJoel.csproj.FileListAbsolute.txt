@@ -1,0 +1,6 @@
+C:\Users\LabTec\AppData\Local\Temporary Projects\Builder-GarciaJoel\bin\Debug\Builder-GarciaJoel.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\Builder-GarciaJoel\bin\Debug\Builder-GarciaJoel.pdb
+C:\Users\LabTec\AppData\Local\Temporary Projects\Builder-GarciaJoel\obj\x86\Debug\Builder-GarciaJoel.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\Builder-GarciaJoel\obj\x86\Debug\Builder-GarciaJoel.pdb
+C:\Users\LabTec\Desktop\Builder-GarciaJoel\Builder-GarciaJoel\obj\x86\Debug\Builder-GarciaJoel.exe
+C:\Users\LabTec\Desktop\Builder-GarciaJoel\Builder-GarciaJoel\obj\x86\Debug\Builder-GarciaJoel.pdb
