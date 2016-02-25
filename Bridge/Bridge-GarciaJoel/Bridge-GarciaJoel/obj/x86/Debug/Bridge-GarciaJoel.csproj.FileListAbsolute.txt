@@ -1,0 +1,6 @@
+C:\Users\LabTec\AppData\Local\Temporary Projects\Bridge-GarciaJoel\bin\Debug\Bridge-GarciaJoel.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\Bridge-GarciaJoel\bin\Debug\Bridge-GarciaJoel.pdb
+C:\Users\LabTec\AppData\Local\Temporary Projects\Bridge-GarciaJoel\obj\x86\Debug\Bridge-GarciaJoel.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\Bridge-GarciaJoel\obj\x86\Debug\Bridge-GarciaJoel.pdb
+C:\Users\LabTec\Desktop\Bridge-GarciaJoel\Bridge-GarciaJoel\obj\x86\Debug\Bridge-GarciaJoel.exe
+C:\Users\LabTec\Desktop\Bridge-GarciaJoel\Bridge-GarciaJoel\obj\x86\Debug\Bridge-GarciaJoel.pdb
