@@ -1,0 +1,6 @@
+C:\Users\LabTec\AppData\Local\Temporary Projects\Momento-CesarCuandon\bin\Debug\Momento-CesarCuandon.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\Momento-CesarCuandon\bin\Debug\Momento-CesarCuandon.pdb
+C:\Users\LabTec\AppData\Local\Temporary Projects\Momento-CesarCuandon\obj\x86\Debug\Momento-CesarCuandon.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\Momento-CesarCuandon\obj\x86\Debug\Momento-CesarCuandon.pdb
+C:\Users\LabTec\Desktop\Momento-CesarCuandon\Momento-CesarCuandon\obj\x86\Debug\Momento-CesarCuandon.exe
+C:\Users\LabTec\Desktop\Momento-CesarCuandon\Momento-CesarCuandon\obj\x86\Debug\Momento-CesarCuandon.pdb
