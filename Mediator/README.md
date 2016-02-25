@@ -1,30 +1,32 @@
 # _**Mediator**_
-PropÛsito
-Define un objeto que encapsula como interact˙an una serie de objetos. Promueve un bajo
-acoplamiento al evitar que los objetos se refieran unos a otros explÌcitamente y permite variar
-la interacciÛn entre ellos de forma independiente.
-## MotivaciÛn
-Los diseÒadores orientados a objetos promueven la distribuciÛn de comportamiento entre
+Prop√≥sito
+Define un objeto que encapsula como interact√∫an una serie de objetos. Promueve un bajo
+acoplamiento al evitar que los objetos se refieran unos a otros expl√≠citamente y permite variar
+la interacci√≥n entre ellos de forma independiente.
+## Motivaci√≥n
+Los dise√±adores orientados a objetos promueven la distribuci√≥n de comportamiento entre
 objetos. Esto puede dar a lugar una estructura de objetos con muchas conexiones entre
-ellos; en el peor de los casos, cada objeto acaba por conocer a todos los dem·s.
-Aunque dividir un sistema en muchos objetos suele mejorar la reutilizaciÛn, la proliferaciÛn de
+ellos; en el peor de los casos, cada objeto acaba por conocer a todos los dem√°s.
+Aunque dividir un sistema en muchos objetos suele mejorar la reutilizaci√≥n, la proliferaci√≥n de
 interconexiones tiende a reducir esta de nuevo. Tener muchas interconexiones hace que sea
-menos probable que un objeto pueda funcionar sin la ayuda de otros. Mas a˙n, puede ser
-difÌcil cambiar el comportamiento del sistema de manera significativa, ya que el mismo se
+menos probable que un objeto pueda funcionar sin la ayuda de otros. Mas a√∫n, puede ser
+dif√≠cil cambiar el comportamiento del sistema de manera significativa, ya que el mismo se
 encuentra distribuido en muchos objetos. Como resultado, podemos vernos forzados a definir
 muchas subclases para personalizar el comportamiento del sistema.
 Estos problemas pueden ser evitados encapsulando el comportamiento colectivo en un
 objeto aparte llamado Mediador, responsable de controlar y coordinar las interacciones entre
-un grupo de objetos, evitando que los mismos se refieran unos a otros explÌcitamente. Los
-objetos solo conocen al Mediador, reduciendo asÌ el numero de interconexiones.
+un grupo de objetos, evitando que los mismos se refieran unos a otros expl√≠citamente. Los
+objetos solo conocen al Mediador, reduciendo as√≠ el numero de interconexiones.
 ## Aplicabilidad
 Usar Mediator cuando:
 
 1. Un conjunto de objetos se comunican de forma bien definida, pero compleja. Las
-interdependencias resultantes no est·n estructuradas y son difÌciles de comprender.
-2.Es difÌcil reutilizar un objeto, ya que este se refiere a otros muchos objetos con los
+interdependencias resultantes no est√°n estructuradas y son dif√≠ciles de comprender.
+2.Es dif√≠cil reutilizar un objeto, ya que este se refiere a otros muchos objetos con los
 que se comunica.
-3. Un comportamiento que esta distribuido entre varias clases deberÌa poder ser
+3. Un comportamiento que esta distribuido entre varias clases deber√≠a poder ser
 adaptado sin necesidad de una gran cantidad de subclases.
 
->Germ·n Verdoza Gonz·lez -12211479
+>Germ√°n Verdoza Gonz√°lez -12211479
+>Germ√°n Verdoza Gonz√°lez -12211462
+
