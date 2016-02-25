@@ -1,0 +1,4 @@
+c:\users\alejandro\documents\visual studio 2010\Projects\Abstract Factory\Abstract Factory\bin\Debug\Abstract Factory.exe
+c:\users\alejandro\documents\visual studio 2010\Projects\Abstract Factory\Abstract Factory\bin\Debug\Abstract Factory.pdb
+c:\users\alejandro\documents\visual studio 2010\Projects\Abstract Factory\Abstract Factory\obj\x86\Debug\Abstract Factory.exe
+c:\users\alejandro\documents\visual studio 2010\Projects\Abstract Factory\Abstract Factory\obj\x86\Debug\Abstract Factory.pdb
