@@ -1,4 +1,0 @@
-c:\users\evelyn\documents\visual studio 2010\Projects\Patron Factory Method\Patron Factory Method\bin\Debug\Patron Factory Method.exe
-c:\users\evelyn\documents\visual studio 2010\Projects\Patron Factory Method\Patron Factory Method\bin\Debug\Patron Factory Method.pdb
-c:\users\evelyn\documents\visual studio 2010\Projects\Patron Factory Method\Patron Factory Method\obj\x86\Debug\Patron Factory Method.exe
-c:\users\evelyn\documents\visual studio 2010\Projects\Patron Factory Method\Patron Factory Method\obj\x86\Debug\Patron Factory Method.pdb

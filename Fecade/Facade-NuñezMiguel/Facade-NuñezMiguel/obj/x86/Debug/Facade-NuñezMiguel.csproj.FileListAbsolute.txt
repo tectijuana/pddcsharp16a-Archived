@@ -1,4 +1,0 @@
-C:\Users\LabTec\Desktop\Facade-NuñezMiguel\Facade-NuñezMiguel\bin\Debug\Facade-NuñezMiguel.exe
-C:\Users\LabTec\Desktop\Facade-NuñezMiguel\Facade-NuñezMiguel\bin\Debug\Facade-NuñezMiguel.pdb
-C:\Users\LabTec\Desktop\Facade-NuñezMiguel\Facade-NuñezMiguel\obj\x86\Debug\Facade-NuñezMiguel.exe
-C:\Users\LabTec\Desktop\Facade-NuñezMiguel\Facade-NuñezMiguel\obj\x86\Debug\Facade-NuñezMiguel.pdb
