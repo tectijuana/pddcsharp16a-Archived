@@ -1,0 +1,6 @@
+C:\Users\LabTec\AppData\Local\Temporary Projects\Observer-CesarCuandon\bin\Debug\Observer-CesarCuandon.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\Observer-CesarCuandon\bin\Debug\Observer-CesarCuandon.pdb
+C:\Users\LabTec\AppData\Local\Temporary Projects\Observer-CesarCuandon\obj\x86\Debug\Observer-CesarCuandon.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\Observer-CesarCuandon\obj\x86\Debug\Observer-CesarCuandon.pdb
+C:\Users\LabTec\Desktop\Observer-CesarCuandon\Observer-CesarCuandon\obj\x86\Debug\Observer-CesarCuandon.exe
+C:\Users\LabTec\Desktop\Observer-CesarCuandon\Observer-CesarCuandon\obj\x86\Debug\Observer-CesarCuandon.pdb

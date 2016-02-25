@@ -1,0 +1,4 @@
+C:\Users\LabTec\AppData\Local\Temporary Projects\bridge\bin\Debug\bridge.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\bridge\bin\Debug\bridge.pdb
+C:\Users\LabTec\AppData\Local\Temporary Projects\bridge\obj\x86\Debug\bridge.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\bridge\obj\x86\Debug\bridge.pdb

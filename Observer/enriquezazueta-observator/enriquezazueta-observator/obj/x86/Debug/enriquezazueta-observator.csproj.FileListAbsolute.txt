@@ -1,0 +1,6 @@
+C:\Users\LabTec\AppData\Local\Temporary Projects\enriquezazueta-observator\bin\Debug\enriquezazueta-observator.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\enriquezazueta-observator\bin\Debug\enriquezazueta-observator.pdb
+C:\Users\LabTec\AppData\Local\Temporary Projects\enriquezazueta-observator\obj\x86\Debug\enriquezazueta-observator.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\enriquezazueta-observator\obj\x86\Debug\enriquezazueta-observator.pdb
+C:\Users\LabTec\Desktop\enriquezazueta-observator\enriquezazueta-observator\obj\x86\Debug\enriquezazueta-observator.exe
+C:\Users\LabTec\Desktop\enriquezazueta-observator\enriquezazueta-observator\obj\x86\Debug\enriquezazueta-observator.pdb
