@@ -1,0 +1,6 @@
+C:\Users\LabTec\AppData\Local\Temporary Projects\P.Brigde EvelynMacedo\bin\Debug\P.Brigde EvelynMacedo.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\P.Brigde EvelynMacedo\bin\Debug\P.Brigde EvelynMacedo.pdb
+C:\Users\LabTec\AppData\Local\Temporary Projects\P.Brigde EvelynMacedo\obj\x86\Debug\P.Brigde EvelynMacedo.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\P.Brigde EvelynMacedo\obj\x86\Debug\P.Brigde EvelynMacedo.pdb
+C:\Users\LabTec\documents\visual studio 2010\Projects\P.Brigde EvelynMacedo\P.Brigde EvelynMacedo\obj\x86\Debug\P.Brigde EvelynMacedo.exe
+C:\Users\LabTec\documents\visual studio 2010\Projects\P.Brigde EvelynMacedo\P.Brigde EvelynMacedo\obj\x86\Debug\P.Brigde EvelynMacedo.pdb
