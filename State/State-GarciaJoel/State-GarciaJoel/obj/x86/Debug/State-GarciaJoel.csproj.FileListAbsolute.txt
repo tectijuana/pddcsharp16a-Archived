@@ -1,0 +1,6 @@
+C:\Users\LabTec\AppData\Local\Temporary Projects\State-GarciaJoel\bin\Debug\State-GarciaJoel.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\State-GarciaJoel\bin\Debug\State-GarciaJoel.pdb
+C:\Users\LabTec\AppData\Local\Temporary Projects\State-GarciaJoel\obj\x86\Debug\State-GarciaJoel.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\State-GarciaJoel\obj\x86\Debug\State-GarciaJoel.pdb
+C:\Users\LabTec\Desktop\State-GarciaJoel\State-GarciaJoel\obj\x86\Debug\State-GarciaJoel.exe
+C:\Users\LabTec\Desktop\State-GarciaJoel\State-GarciaJoel\obj\x86\Debug\State-GarciaJoel.pdb
