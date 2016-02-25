@@ -1,0 +1,6 @@
+C:\Users\LabTec\AppData\Local\Temporary Projects\ChainOfResponsability-GarciaJoel\bin\Debug\ChainOfResponsability-GarciaJoel.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\ChainOfResponsability-GarciaJoel\bin\Debug\ChainOfResponsability-GarciaJoel.pdb
+C:\Users\LabTec\AppData\Local\Temporary Projects\ChainOfResponsability-GarciaJoel\obj\x86\Debug\ChainOfResponsability-GarciaJoel.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\ChainOfResponsability-GarciaJoel\obj\x86\Debug\ChainOfResponsability-GarciaJoel.pdb
+C:\Users\LabTec\Desktop\ChainOfResponsability-GarciaJoel\ChainOfResponsability-GarciaJoel\obj\x86\Debug\ChainOfResponsability-GarciaJoel.exe
+C:\Users\LabTec\Desktop\ChainOfResponsability-GarciaJoel\ChainOfResponsability-GarciaJoel\obj\x86\Debug\ChainOfResponsability-GarciaJoel.pdb

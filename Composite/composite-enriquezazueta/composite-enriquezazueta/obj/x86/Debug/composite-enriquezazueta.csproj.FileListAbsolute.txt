@@ -1,0 +1,6 @@
+C:\Users\LabTec\AppData\Local\Temporary Projects\composite-enriquezazueta\bin\Debug\composite-enriquezazueta.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\composite-enriquezazueta\bin\Debug\composite-enriquezazueta.pdb
+C:\Users\LabTec\AppData\Local\Temporary Projects\composite-enriquezazueta\obj\x86\Debug\composite-enriquezazueta.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\composite-enriquezazueta\obj\x86\Debug\composite-enriquezazueta.pdb
+C:\Users\LabTec\Desktop\composite-enriquezazueta\composite-enriquezazueta\obj\x86\Debug\composite-enriquezazueta.exe
+C:\Users\LabTec\Desktop\composite-enriquezazueta\composite-enriquezazueta\obj\x86\Debug\composite-enriquezazueta.pdb

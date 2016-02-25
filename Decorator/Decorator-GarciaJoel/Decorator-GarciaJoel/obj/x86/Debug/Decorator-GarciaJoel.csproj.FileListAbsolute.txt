@@ -1,0 +1,6 @@
+C:\Users\LabTec\AppData\Local\Temporary Projects\Decorator-GarciaJoel\bin\Debug\Decorator-GarciaJoel.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\Decorator-GarciaJoel\bin\Debug\Decorator-GarciaJoel.pdb
+C:\Users\LabTec\AppData\Local\Temporary Projects\Decorator-GarciaJoel\obj\x86\Debug\Decorator-GarciaJoel.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\Decorator-GarciaJoel\obj\x86\Debug\Decorator-GarciaJoel.pdb
+C:\Users\LabTec\Desktop\Decorator-GarciaJoel\Decorator-GarciaJoel\obj\x86\Debug\Decorator-GarciaJoel.exe
+C:\Users\LabTec\Desktop\Decorator-GarciaJoel\Decorator-GarciaJoel\obj\x86\Debug\Decorator-GarciaJoel.pdb
