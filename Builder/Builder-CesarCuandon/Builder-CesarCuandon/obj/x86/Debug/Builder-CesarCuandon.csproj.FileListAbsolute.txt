@@ -1,0 +1,6 @@
+C:\Users\LabTec\AppData\Local\Temporary Projects\Builder-CesarCuandon\bin\Debug\Builder-CesarCuandon.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\Builder-CesarCuandon\bin\Debug\Builder-CesarCuandon.pdb
+C:\Users\LabTec\AppData\Local\Temporary Projects\Builder-CesarCuandon\obj\x86\Debug\Builder-CesarCuandon.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\Builder-CesarCuandon\obj\x86\Debug\Builder-CesarCuandon.pdb
+C:\Users\LabTec\Desktop\Builder-CesarCuandon\Builder-CesarCuandon\obj\x86\Debug\Builder-CesarCuandon.exe
+C:\Users\LabTec\Desktop\Builder-CesarCuandon\Builder-CesarCuandon\obj\x86\Debug\Builder-CesarCuandon.pdb
