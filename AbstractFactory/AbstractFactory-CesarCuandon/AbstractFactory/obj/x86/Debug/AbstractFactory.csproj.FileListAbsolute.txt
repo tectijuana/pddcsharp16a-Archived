@@ -1,6 +1,0 @@
-C:\Users\Cesar Cuandon\Documents\ESCUELA\OCTAVO\PDD\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe
-C:\Users\Cesar Cuandon\Documents\ESCUELA\OCTAVO\PDD\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.pdb
-C:\Users\Cesar Cuandon\Documents\ESCUELA\OCTAVO\PDD\AbstractFactory\AbstractFactory\obj\x86\Debug\AbstractFactory.exe
-C:\Users\Cesar Cuandon\Documents\ESCUELA\OCTAVO\PDD\AbstractFactory\AbstractFactory\obj\x86\Debug\AbstractFactory.pdb
-E:\AbstractFactory\AbstractFactory\obj\x86\Debug\AbstractFactory.exe
-E:\AbstractFactory\AbstractFactory\obj\x86\Debug\AbstractFactory.pdb

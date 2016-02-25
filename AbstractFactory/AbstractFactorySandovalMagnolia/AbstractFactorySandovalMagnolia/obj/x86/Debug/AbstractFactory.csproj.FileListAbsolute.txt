@@ -1,4 +1,0 @@
-C:\Users\LabTec\AppData\Local\Temporary Projects\AbstractFactory\bin\Debug\AbstractFactory.exe
-C:\Users\LabTec\AppData\Local\Temporary Projects\AbstractFactory\bin\Debug\AbstractFactory.pdb
-C:\Users\LabTec\AppData\Local\Temporary Projects\AbstractFactory\obj\x86\Debug\AbstractFactory.exe
-C:\Users\LabTec\AppData\Local\Temporary Projects\AbstractFactory\obj\x86\Debug\AbstractFactory.pdb
