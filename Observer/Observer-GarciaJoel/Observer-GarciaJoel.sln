@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer-GarciaJoel", "Observer-GarciaJoel\Observer-GarciaJoel.csproj", "{EEDE0C0A-ADB9-435B-BC73-2E0715D43DEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEDE0C0A-ADB9-435B-BC73-2E0715D43DEC}.Debug|x86.ActiveCfg = Debug|x86
+		{EEDE0C0A-ADB9-435B-BC73-2E0715D43DEC}.Debug|x86.Build.0 = Debug|x86
+		{EEDE0C0A-ADB9-435B-BC73-2E0715D43DEC}.Release|x86.ActiveCfg = Release|x86
+		{EEDE0C0A-ADB9-435B-BC73-2E0715D43DEC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
