@@ -28,5 +28,6 @@ que se comunica.
 adaptado sin necesidad de una gran cantidad de subclases.
 
 >Germán Verdoza González -12211479
->Germán Verdoza González -12211462
+
+>Gómez Cuandón Julio Cesar  -12211462
 
