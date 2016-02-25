@@ -1,0 +1,6 @@
+C:\Users\LabTec\AppData\Local\Temporary Projects\enriquezazueta-command\bin\Debug\enriquezazueta-command.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\enriquezazueta-command\bin\Debug\enriquezazueta-command.pdb
+C:\Users\LabTec\AppData\Local\Temporary Projects\enriquezazueta-command\obj\x86\Debug\enriquezazueta-command.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\enriquezazueta-command\obj\x86\Debug\enriquezazueta-command.pdb
+C:\Users\LabTec\Desktop\enriquezazueta-command\enriquezazueta-command\obj\x86\Debug\enriquezazueta-command.exe
+C:\Users\LabTec\Desktop\enriquezazueta-command\enriquezazueta-command\obj\x86\Debug\enriquezazueta-command.pdb
