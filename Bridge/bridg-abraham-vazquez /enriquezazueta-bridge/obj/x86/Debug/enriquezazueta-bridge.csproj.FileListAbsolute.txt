@@ -1,0 +1,6 @@
+C:\Users\LabTec\AppData\Local\Temporary Projects\enriquezazueta-bridge\bin\Debug\enriquezazueta-bridge.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\enriquezazueta-bridge\bin\Debug\enriquezazueta-bridge.pdb
+C:\Users\LabTec\AppData\Local\Temporary Projects\enriquezazueta-bridge\obj\x86\Debug\enriquezazueta-bridge.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\enriquezazueta-bridge\obj\x86\Debug\enriquezazueta-bridge.pdb
+C:\Users\LabTec\Desktop\enriquezazueta-bridge\enriquezazueta-bridge\obj\x86\Debug\enriquezazueta-bridge.exe
+C:\Users\LabTec\Desktop\enriquezazueta-bridge\enriquezazueta-bridge\obj\x86\Debug\enriquezazueta-bridge.pdb
