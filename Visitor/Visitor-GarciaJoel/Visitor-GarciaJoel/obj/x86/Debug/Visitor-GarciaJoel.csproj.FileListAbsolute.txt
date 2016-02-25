@@ -1,0 +1,6 @@
+C:\Users\LabTec\AppData\Local\Temporary Projects\Visitor-GarciaJoel\bin\Debug\Visitor-GarciaJoel.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\Visitor-GarciaJoel\bin\Debug\Visitor-GarciaJoel.pdb
+C:\Users\LabTec\AppData\Local\Temporary Projects\Visitor-GarciaJoel\obj\x86\Debug\Visitor-GarciaJoel.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\Visitor-GarciaJoel\obj\x86\Debug\Visitor-GarciaJoel.pdb
+C:\Users\LabTec\Desktop\Visitor-GarciaJoel\Visitor-GarciaJoel\obj\x86\Debug\Visitor-GarciaJoel.exe
+C:\Users\LabTec\Desktop\Visitor-GarciaJoel\Visitor-GarciaJoel\obj\x86\Debug\Visitor-GarciaJoel.pdb
