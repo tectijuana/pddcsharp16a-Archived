@@ -1,0 +1,6 @@
+C:\Users\LabTec\AppData\Local\Temporary Projects\Visitor-CesarCuandon\bin\Debug\Visitor-CesarCuandon.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\Visitor-CesarCuandon\bin\Debug\Visitor-CesarCuandon.pdb
+C:\Users\LabTec\AppData\Local\Temporary Projects\Visitor-CesarCuandon\obj\x86\Debug\Visitor-CesarCuandon.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\Visitor-CesarCuandon\obj\x86\Debug\Visitor-CesarCuandon.pdb
+C:\Users\LabTec\Desktop\Visitor-CesarCuandon\Visitor-CesarCuandon\obj\x86\Debug\Visitor-CesarCuandon.exe
+C:\Users\LabTec\Desktop\Visitor-CesarCuandon\Visitor-CesarCuandon\obj\x86\Debug\Visitor-CesarCuandon.pdb
