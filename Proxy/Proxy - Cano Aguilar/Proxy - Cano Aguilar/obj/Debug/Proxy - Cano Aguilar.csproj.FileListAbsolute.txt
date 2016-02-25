@@ -1,0 +1,6 @@
+c:\users\joseluis\documents\visual studio 2015\Projects\Proxy - Cano Aguilar\Proxy - Cano Aguilar\bin\Debug\Proxy - Cano Aguilar.exe.config
+c:\users\joseluis\documents\visual studio 2015\Projects\Proxy - Cano Aguilar\Proxy - Cano Aguilar\bin\Debug\Proxy - Cano Aguilar.exe
+c:\users\joseluis\documents\visual studio 2015\Projects\Proxy - Cano Aguilar\Proxy - Cano Aguilar\bin\Debug\Proxy - Cano Aguilar.pdb
+c:\users\joseluis\documents\visual studio 2015\Projects\Proxy - Cano Aguilar\Proxy - Cano Aguilar\obj\Debug\Proxy - Cano Aguilar.csprojResolveAssemblyReference.cache
+c:\users\joseluis\documents\visual studio 2015\Projects\Proxy - Cano Aguilar\Proxy - Cano Aguilar\obj\Debug\Proxy - Cano Aguilar.exe
+c:\users\joseluis\documents\visual studio 2015\Projects\Proxy - Cano Aguilar\Proxy - Cano Aguilar\obj\Debug\Proxy - Cano Aguilar.pdb

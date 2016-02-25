@@ -1,0 +1,4 @@
+c:\users\evelyn\documents\visual studio 2010\Projects\P.Proxy Evelyn Macedo\P.Proxy Evelyn Macedo\bin\Debug\P.Proxy Evelyn Macedo.exe
+c:\users\evelyn\documents\visual studio 2010\Projects\P.Proxy Evelyn Macedo\P.Proxy Evelyn Macedo\bin\Debug\P.Proxy Evelyn Macedo.pdb
+c:\users\evelyn\documents\visual studio 2010\Projects\P.Proxy Evelyn Macedo\P.Proxy Evelyn Macedo\obj\x86\Debug\P.Proxy Evelyn Macedo.exe
+c:\users\evelyn\documents\visual studio 2010\Projects\P.Proxy Evelyn Macedo\P.Proxy Evelyn Macedo\obj\x86\Debug\P.Proxy Evelyn Macedo.pdb

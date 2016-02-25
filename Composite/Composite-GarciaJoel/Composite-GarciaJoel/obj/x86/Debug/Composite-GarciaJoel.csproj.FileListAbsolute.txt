@@ -1,0 +1,6 @@
+C:\Users\LabTec\AppData\Local\Temporary Projects\Composite-GarciaJoel\bin\Debug\Composite-GarciaJoel.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\Composite-GarciaJoel\bin\Debug\Composite-GarciaJoel.pdb
+C:\Users\LabTec\AppData\Local\Temporary Projects\Composite-GarciaJoel\obj\x86\Debug\Composite-GarciaJoel.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\Composite-GarciaJoel\obj\x86\Debug\Composite-GarciaJoel.pdb
+C:\Users\LabTec\Desktop\Composite-GarciaJoel\Composite-GarciaJoel\obj\x86\Debug\Composite-GarciaJoel.exe
+C:\Users\LabTec\Desktop\Composite-GarciaJoel\Composite-GarciaJoel\obj\x86\Debug\Composite-GarciaJoel.pdb

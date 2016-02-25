@@ -1,0 +1,6 @@
+C:\Users\LabTec\AppData\Local\Temporary Projects\OrdunoJose\bin\Debug\OrdunoJose.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\OrdunoJose\bin\Debug\OrdunoJose.pdb
+C:\Users\LabTec\AppData\Local\Temporary Projects\OrdunoJose\obj\x86\Debug\OrdunoJose.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\OrdunoJose\obj\x86\Debug\OrdunoJose.pdb
+C:\Users\LabTec\documents\visual studio 2010\Projects\OrdunoJose\OrdunoJose\obj\x86\Debug\OrdunoJose.exe
+C:\Users\LabTec\documents\visual studio 2010\Projects\OrdunoJose\OrdunoJose\obj\x86\Debug\OrdunoJose.pdb
