@@ -1,0 +1,6 @@
+C:\Users\LabTec\AppData\Local\Temporary Projects\TemplateMethod-CesarCuandon\bin\Debug\TemplateMethod-CesarCuandon.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\TemplateMethod-CesarCuandon\bin\Debug\TemplateMethod-CesarCuandon.pdb
+C:\Users\LabTec\AppData\Local\Temporary Projects\TemplateMethod-CesarCuandon\obj\x86\Debug\TemplateMethod-CesarCuandon.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\TemplateMethod-CesarCuandon\obj\x86\Debug\TemplateMethod-CesarCuandon.pdb
+C:\Users\LabTec\Desktop\TemplateMethod-CesarCuandon\TemplateMethod-CesarCuandon\obj\x86\Debug\TemplateMethod-CesarCuandon.exe
+C:\Users\LabTec\Desktop\TemplateMethod-CesarCuandon\TemplateMethod-CesarCuandon\obj\x86\Debug\TemplateMethod-CesarCuandon.pdb
