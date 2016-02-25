@@ -1,0 +1,5 @@
+D:\8 Semestre\Patrones de Diseño\State_NoriaPaulina\State_NoriaPaulina\bin\Debug\State_NoriaPaulina.exe.config
+D:\8 Semestre\Patrones de Diseño\State_NoriaPaulina\State_NoriaPaulina\bin\Debug\State_NoriaPaulina.exe
+D:\8 Semestre\Patrones de Diseño\State_NoriaPaulina\State_NoriaPaulina\bin\Debug\State_NoriaPaulina.pdb
+D:\8 Semestre\Patrones de Diseño\State_NoriaPaulina\State_NoriaPaulina\obj\Debug\State_NoriaPaulina.exe
+D:\8 Semestre\Patrones de Diseño\State_NoriaPaulina\State_NoriaPaulina\obj\Debug\State_NoriaPaulina.pdb

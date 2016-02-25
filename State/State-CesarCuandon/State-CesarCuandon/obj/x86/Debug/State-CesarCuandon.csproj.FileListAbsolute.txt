@@ -1,0 +1,6 @@
+C:\Users\LabTec\AppData\Local\Temporary Projects\State-CesarCuandon\bin\Debug\State-CesarCuandon.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\State-CesarCuandon\bin\Debug\State-CesarCuandon.pdb
+C:\Users\LabTec\AppData\Local\Temporary Projects\State-CesarCuandon\obj\x86\Debug\State-CesarCuandon.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\State-CesarCuandon\obj\x86\Debug\State-CesarCuandon.pdb
+C:\Users\LabTec\Desktop\State-CesarCuandon\State-CesarCuandon\obj\x86\Debug\State-CesarCuandon.exe
+C:\Users\LabTec\Desktop\State-CesarCuandon\State-CesarCuandon\obj\x86\Debug\State-CesarCuandon.pdb

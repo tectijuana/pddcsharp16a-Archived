@@ -1,0 +1,4 @@
+C:\Users\LabTec\documents\visual studio 2010\Projects\P.Observer EvelynMacedo\P.Observer EvelynMacedo\bin\Debug\P.Observer EvelynMacedo.exe
+C:\Users\LabTec\documents\visual studio 2010\Projects\P.Observer EvelynMacedo\P.Observer EvelynMacedo\bin\Debug\P.Observer EvelynMacedo.pdb
+C:\Users\LabTec\documents\visual studio 2010\Projects\P.Observer EvelynMacedo\P.Observer EvelynMacedo\obj\x86\Debug\P.Observer EvelynMacedo.exe
+C:\Users\LabTec\documents\visual studio 2010\Projects\P.Observer EvelynMacedo\P.Observer EvelynMacedo\obj\x86\Debug\P.Observer EvelynMacedo.pdb
