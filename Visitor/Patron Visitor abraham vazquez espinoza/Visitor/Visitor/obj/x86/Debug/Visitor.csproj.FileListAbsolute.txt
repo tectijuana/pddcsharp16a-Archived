@@ -1,0 +1,4 @@
+C:\Users\Beatriz\Documents\Visual Studio 2010\Projects\Visitor\Visitor\bin\Debug\Visitor.exe
+C:\Users\Beatriz\Documents\Visual Studio 2010\Projects\Visitor\Visitor\bin\Debug\Visitor.pdb
+C:\Users\Beatriz\Documents\Visual Studio 2010\Projects\Visitor\Visitor\obj\x86\Debug\Visitor.exe
+C:\Users\Beatriz\Documents\Visual Studio 2010\Projects\Visitor\Visitor\obj\x86\Debug\Visitor.pdb
