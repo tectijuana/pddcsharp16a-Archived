@@ -1,4 +1,0 @@
-C:\Users\LabTec\Desktop\P.Facade EvelynMacedo\P.Facade EvelynMacedo\bin\Debug\P.Facade EvelynMacedo.exe
-C:\Users\LabTec\Desktop\P.Facade EvelynMacedo\P.Facade EvelynMacedo\bin\Debug\P.Facade EvelynMacedo.pdb
-C:\Users\LabTec\Desktop\P.Facade EvelynMacedo\P.Facade EvelynMacedo\obj\x86\Debug\P.Facade EvelynMacedo.exe
-C:\Users\LabTec\Desktop\P.Facade EvelynMacedo\P.Facade EvelynMacedo\obj\x86\Debug\P.Facade EvelynMacedo.pdb

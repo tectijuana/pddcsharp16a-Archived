@@ -1,4 +1,0 @@
-c:\users\evelyn\documents\visual studio 2010\Projects\Flyweight EvelynMacedo\Flyweight EvelynMacedo\bin\Debug\Flyweight EvelynMacedo.exe
-c:\users\evelyn\documents\visual studio 2010\Projects\Flyweight EvelynMacedo\Flyweight EvelynMacedo\bin\Debug\Flyweight EvelynMacedo.pdb
-c:\users\evelyn\documents\visual studio 2010\Projects\Flyweight EvelynMacedo\Flyweight EvelynMacedo\obj\x86\Debug\Flyweight EvelynMacedo.exe
-c:\users\evelyn\documents\visual studio 2010\Projects\Flyweight EvelynMacedo\Flyweight EvelynMacedo\obj\x86\Debug\Flyweight EvelynMacedo.pdb

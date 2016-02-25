@@ -1,4 +1,0 @@
-C:\Users\LabTec\AppData\Local\Temporary Projects\FactoryMethod\bin\Debug\FactoryMethod.exe
-C:\Users\LabTec\AppData\Local\Temporary Projects\FactoryMethod\bin\Debug\FactoryMethod.pdb
-C:\Users\LabTec\AppData\Local\Temporary Projects\FactoryMethod\obj\x86\Debug\FactoryMethod.exe
-C:\Users\LabTec\AppData\Local\Temporary Projects\FactoryMethod\obj\x86\Debug\FactoryMethod.pdb
