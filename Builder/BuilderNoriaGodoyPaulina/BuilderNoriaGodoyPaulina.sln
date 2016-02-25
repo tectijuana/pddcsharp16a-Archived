@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderNoriaGodoyPaulina", "BuilderNoriaGodoyPaulina\BuilderNoriaGodoyPaulina.csproj", "{9B4C237D-3222-4F54-9F24-0D1B72FFC5F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B4C237D-3222-4F54-9F24-0D1B72FFC5F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B4C237D-3222-4F54-9F24-0D1B72FFC5F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B4C237D-3222-4F54-9F24-0D1B72FFC5F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B4C237D-3222-4F54-9F24-0D1B72FFC5F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

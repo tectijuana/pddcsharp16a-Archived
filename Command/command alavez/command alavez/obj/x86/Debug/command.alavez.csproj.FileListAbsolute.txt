@@ -1,0 +1,4 @@
+C:\Users\LabTec\AppData\Local\Temporary Projects\command alavez\bin\Debug\command alavez.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\command alavez\bin\Debug\command alavez.pdb
+C:\Users\LabTec\AppData\Local\Temporary Projects\command alavez\obj\x86\Debug\command alavez.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\command alavez\obj\x86\Debug\command alavez.pdb

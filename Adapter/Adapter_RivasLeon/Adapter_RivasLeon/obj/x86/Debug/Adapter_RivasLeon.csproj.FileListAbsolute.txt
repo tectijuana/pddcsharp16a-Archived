@@ -1,0 +1,6 @@
+C:\Users\LabTec\AppData\Local\Temporary Projects\Adapter_RivasLeon\bin\Debug\Adapter_RivasLeon.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\Adapter_RivasLeon\bin\Debug\Adapter_RivasLeon.pdb
+C:\Users\LabTec\AppData\Local\Temporary Projects\Adapter_RivasLeon\obj\x86\Debug\Adapter_RivasLeon.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\Adapter_RivasLeon\obj\x86\Debug\Adapter_RivasLeon.pdb
+C:\Users\LabTec\Desktop\Adapter_RivasLeon\Adapter_RivasLeon\obj\x86\Debug\Adapter_RivasLeon.exe
+C:\Users\LabTec\Desktop\Adapter_RivasLeon\Adapter_RivasLeon\obj\x86\Debug\Adapter_RivasLeon.pdb

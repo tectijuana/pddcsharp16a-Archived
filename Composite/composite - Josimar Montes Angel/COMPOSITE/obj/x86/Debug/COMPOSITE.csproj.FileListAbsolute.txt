@@ -1,0 +1,4 @@
+H:\patrones\composite - Josimar Montes Angel\Arellano Garcia Brenda Gabriela (COMPOSITE)\obj\x86\Debug\Arellano Garcia Brenda Gabriela (COMPOSITE).exe
+H:\patrones\composite - Josimar Montes Angel\Arellano Garcia Brenda Gabriela (COMPOSITE)\obj\x86\Debug\Arellano Garcia Brenda Gabriela (COMPOSITE).pdb
+H:\patrones\composite - Josimar Montes Angel\COMPOSITE\obj\x86\Debug\Arellano Garcia Brenda Gabriela (COMPOSITE).exe
+H:\patrones\composite - Josimar Montes Angel\COMPOSITE\obj\x86\Debug\Arellano Garcia Brenda Gabriela (COMPOSITE).pdb
