@@ -1,0 +1,4 @@
+C:\Users\LabTec\AppData\Local\Temporary Projects\observador\bin\Debug\observador.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\observador\bin\Debug\observador.pdb
+C:\Users\LabTec\AppData\Local\Temporary Projects\observador\obj\x86\Debug\observador.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\observador\obj\x86\Debug\observador.pdb

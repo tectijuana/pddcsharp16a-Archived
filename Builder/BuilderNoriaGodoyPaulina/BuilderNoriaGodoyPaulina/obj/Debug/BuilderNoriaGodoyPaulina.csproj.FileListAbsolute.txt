@@ -1,0 +1,5 @@
+D:\8 Semestre\Patrones de Diseño\BuilderNoriaGodoyPaulina\BuilderNoriaGodoyPaulina\bin\Debug\BuilderNoriaGodoyPaulina.exe.config
+D:\8 Semestre\Patrones de Diseño\BuilderNoriaGodoyPaulina\BuilderNoriaGodoyPaulina\bin\Debug\BuilderNoriaGodoyPaulina.exe
+D:\8 Semestre\Patrones de Diseño\BuilderNoriaGodoyPaulina\BuilderNoriaGodoyPaulina\bin\Debug\BuilderNoriaGodoyPaulina.pdb
+D:\8 Semestre\Patrones de Diseño\BuilderNoriaGodoyPaulina\BuilderNoriaGodoyPaulina\obj\Debug\BuilderNoriaGodoyPaulina.exe
+D:\8 Semestre\Patrones de Diseño\BuilderNoriaGodoyPaulina\BuilderNoriaGodoyPaulina\obj\Debug\BuilderNoriaGodoyPaulina.pdb
