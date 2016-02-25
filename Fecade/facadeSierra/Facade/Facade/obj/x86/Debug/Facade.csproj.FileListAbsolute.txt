@@ -1,4 +1,0 @@
-c:\users\alejandro\documents\visual studio 2010\Projects\Facade\Facade\bin\Debug\Facade.exe
-c:\users\alejandro\documents\visual studio 2010\Projects\Facade\Facade\bin\Debug\Facade.pdb
-c:\users\alejandro\documents\visual studio 2010\Projects\Facade\Facade\obj\x86\Debug\Facade.exe
-c:\users\alejandro\documents\visual studio 2010\Projects\Facade\Facade\obj\x86\Debug\Facade.pdb

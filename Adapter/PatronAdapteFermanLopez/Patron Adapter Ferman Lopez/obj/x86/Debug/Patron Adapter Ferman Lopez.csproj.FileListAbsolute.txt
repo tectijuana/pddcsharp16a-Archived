@@ -1,4 +1,0 @@
-C:\Users\LabTec\documents\visual studio 2010\Projects\Patron Adapter Ferman Lopez\Patron Adapter Ferman Lopez\bin\Debug\Patron Adapter Ferman Lopez.exe
-C:\Users\LabTec\documents\visual studio 2010\Projects\Patron Adapter Ferman Lopez\Patron Adapter Ferman Lopez\bin\Debug\Patron Adapter Ferman Lopez.pdb
-C:\Users\LabTec\documents\visual studio 2010\Projects\Patron Adapter Ferman Lopez\Patron Adapter Ferman Lopez\obj\x86\Debug\Patron Adapter Ferman Lopez.exe
-C:\Users\LabTec\documents\visual studio 2010\Projects\Patron Adapter Ferman Lopez\Patron Adapter Ferman Lopez\obj\x86\Debug\Patron Adapter Ferman Lopez.pdb

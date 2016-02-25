@@ -1,6 +1,0 @@
-D:\8 Semestre\Patrones de Diseño\AdapterNoria\AdapterNoria\bin\Debug\AdapterNoria.exe.config
-D:\8 Semestre\Patrones de Diseño\AdapterNoria\AdapterNoria\bin\Debug\AdapterNoria.exe
-D:\8 Semestre\Patrones de Diseño\AdapterNoria\AdapterNoria\bin\Debug\AdapterNoria.pdb
-D:\8 Semestre\Patrones de Diseño\AdapterNoria\AdapterNoria\obj\Debug\AdapterNoria.csprojResolveAssemblyReference.cache
-D:\8 Semestre\Patrones de Diseño\AdapterNoria\AdapterNoria\obj\Debug\AdapterNoria.exe
-D:\8 Semestre\Patrones de Diseño\AdapterNoria\AdapterNoria\obj\Debug\AdapterNoria.pdb
