@@ -1,0 +1,6 @@
+C:\Users\LabTec\AppData\Local\Temporary Projects\enriquezazueta-builder\bin\Debug\enriquezazueta-builder.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\enriquezazueta-builder\bin\Debug\enriquezazueta-builder.pdb
+C:\Users\LabTec\AppData\Local\Temporary Projects\enriquezazueta-builder\obj\x86\Debug\enriquezazueta-builder.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\enriquezazueta-builder\obj\x86\Debug\enriquezazueta-builder.pdb
+C:\Users\LabTec\Desktop\enriquezazueta-builder\enriquezazueta-builder\obj\x86\Debug\enriquezazueta-builder.exe
+C:\Users\LabTec\Desktop\enriquezazueta-builder\enriquezazueta-builder\obj\x86\Debug\enriquezazueta-builder.pdb
