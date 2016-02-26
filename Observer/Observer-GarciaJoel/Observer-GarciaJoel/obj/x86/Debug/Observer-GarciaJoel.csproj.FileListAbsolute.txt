@@ -1,0 +1,6 @@
+C:\Users\LabTec\AppData\Local\Temporary Projects\Observer-GarciaJoel\bin\Debug\Observer-GarciaJoel.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\Observer-GarciaJoel\bin\Debug\Observer-GarciaJoel.pdb
+C:\Users\LabTec\AppData\Local\Temporary Projects\Observer-GarciaJoel\obj\x86\Debug\Observer-GarciaJoel.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\Observer-GarciaJoel\obj\x86\Debug\Observer-GarciaJoel.pdb
+C:\Users\LabTec\Desktop\Observer-GarciaJoel\Observer-GarciaJoel\obj\x86\Debug\Observer-GarciaJoel.exe
+C:\Users\LabTec\Desktop\Observer-GarciaJoel\Observer-GarciaJoel\obj\x86\Debug\Observer-GarciaJoel.pdb
