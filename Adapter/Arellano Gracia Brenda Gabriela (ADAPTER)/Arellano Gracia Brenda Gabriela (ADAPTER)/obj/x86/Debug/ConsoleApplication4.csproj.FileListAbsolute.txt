@@ -1,0 +1,4 @@
+C:\Users\BGAG\AppData\Local\Temporary Projects\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\BGAG\AppData\Local\Temporary Projects\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\BGAG\AppData\Local\Temporary Projects\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.exe
+C:\Users\BGAG\AppData\Local\Temporary Projects\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.pdb
