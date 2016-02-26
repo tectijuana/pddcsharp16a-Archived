@@ -1,0 +1,4 @@
+C:\Users\LabTec\documents\visual studio 2010\Projects\P.State EvelynMacedo\P.State EvelynMacedo\bin\Debug\P.State EvelynMacedo.exe
+C:\Users\LabTec\documents\visual studio 2010\Projects\P.State EvelynMacedo\P.State EvelynMacedo\bin\Debug\P.State EvelynMacedo.pdb
+C:\Users\LabTec\documents\visual studio 2010\Projects\P.State EvelynMacedo\P.State EvelynMacedo\obj\x86\Debug\P.State EvelynMacedo.exe
+C:\Users\LabTec\documents\visual studio 2010\Projects\P.State EvelynMacedo\P.State EvelynMacedo\obj\x86\Debug\P.State EvelynMacedo.pdb
