@@ -1,4 +1,3 @@
-//*Clase BOTON*
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Patron1
 {
+    //*Clase BOTON*
     public class Boton : Control
     {
         public Boton(string nombre) : base(nombre) { }
@@ -18,17 +18,8 @@ namespace Patron1
                 this.modifica();
         }
     }
-}
-//*Clase CONTROL*
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Patron1
-{
-    public abstract class Control
+    //*Clase CONTROL*
+public abstract class Control
     {
         public string valor { get; protected set; }
         public Formulario Director { get; set; }
@@ -44,16 +35,7 @@ namespace Patron1
             Director.controlModificado(this);
         }
     }
-}
-//*Clase Formulario*
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Patron1
-{
+    //*Clase Formulario*
     public class Formulario
     {
         protected IList<Control> controles =
@@ -101,16 +83,7 @@ new List<Control>();
             }
         }
     }
-}
-//*Clase POPUPMENU*
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Patron1
-{
+    //*Clase POPUPMENU*
     public class PopupMenu:Control
     {
         protected IList<string> opciones =
@@ -139,16 +112,7 @@ new List<string>();
             opciones.Add(opcion);
         }
     }
-}
-//*Clase ZONAINFORMACION*
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Patron1
-{
+    //*Clase ZONAINFORMACION*
     public class ZonaInformacion:Control
     {
         public ZonaInformacion(string nombre) : base(nombre) { }
@@ -159,16 +123,7 @@ namespace Patron1
             this.modifica();
         }
     }
-}
-//*Clase PROGRAM*
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using System.Windows.Forms;
-
-namespace Patron1
-{
+    //*Clase PROGRAM*
     static class Program
     {
 
