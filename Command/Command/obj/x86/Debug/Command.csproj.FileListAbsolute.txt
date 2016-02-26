@@ -1,0 +1,4 @@
+C:\Users\LabTec\Documents\PDD\Command\bin\Debug\Command.exe
+C:\Users\LabTec\Documents\PDD\Command\bin\Debug\Command.pdb
+C:\Users\LabTec\Documents\PDD\Command\obj\x86\Debug\Command.exe
+C:\Users\LabTec\Documents\PDD\Command\obj\x86\Debug\Command.pdb
