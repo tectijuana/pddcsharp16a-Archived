@@ -1,0 +1,6 @@
+D:\8 Semestre\Patrones de Diseño\VisitorNoria\VisitorNoria\bin\Debug\VisitorNoria.exe.config
+D:\8 Semestre\Patrones de Diseño\VisitorNoria\VisitorNoria\bin\Debug\VisitorNoria.exe
+D:\8 Semestre\Patrones de Diseño\VisitorNoria\VisitorNoria\bin\Debug\VisitorNoria.pdb
+D:\8 Semestre\Patrones de Diseño\VisitorNoria\VisitorNoria\obj\Debug\VisitorNoria.csprojResolveAssemblyReference.cache
+D:\8 Semestre\Patrones de Diseño\VisitorNoria\VisitorNoria\obj\Debug\VisitorNoria.exe
+D:\8 Semestre\Patrones de Diseño\VisitorNoria\VisitorNoria\obj\Debug\VisitorNoria.pdb
