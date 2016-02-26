@@ -1,4 +1,0 @@
-C:\Users\LabTec\Desktop\AF\AF\bin\Debug\AF.exe
-C:\Users\LabTec\Desktop\AF\AF\bin\Debug\AF.pdb
-C:\Users\LabTec\Desktop\AF\AF\obj\x86\Debug\AF.exe
-C:\Users\LabTec\Desktop\AF\AF\obj\x86\Debug\AF.pdb
