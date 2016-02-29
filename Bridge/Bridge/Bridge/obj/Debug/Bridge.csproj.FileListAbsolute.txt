@@ -1,0 +1,5 @@
+C:\Users\josem\Desktop\Bridge\Bridge\bin\Debug\Bridge.exe.config
+C:\Users\josem\Desktop\Bridge\Bridge\bin\Debug\Bridge.exe
+C:\Users\josem\Desktop\Bridge\Bridge\bin\Debug\Bridge.pdb
+C:\Users\josem\Desktop\Bridge\Bridge\obj\Debug\Bridge.exe
+C:\Users\josem\Desktop\Bridge\Bridge\obj\Debug\Bridge.pdb
