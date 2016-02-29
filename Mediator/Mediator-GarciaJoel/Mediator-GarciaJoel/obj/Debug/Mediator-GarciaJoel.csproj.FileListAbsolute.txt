@@ -1,0 +1,6 @@
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\Mediator-GarciaJoel\Mediator-GarciaJoel\bin\Debug\Mediator-GarciaJoel.exe.config
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\Mediator-GarciaJoel\Mediator-GarciaJoel\bin\Debug\Mediator-GarciaJoel.exe
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\Mediator-GarciaJoel\Mediator-GarciaJoel\bin\Debug\Mediator-GarciaJoel.pdb
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\Mediator-GarciaJoel\Mediator-GarciaJoel\obj\Debug\Mediator-GarciaJoel.csprojResolveAssemblyReference.cache
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\Mediator-GarciaJoel\Mediator-GarciaJoel\obj\Debug\Mediator-GarciaJoel.exe
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\Mediator-GarciaJoel\Mediator-GarciaJoel\obj\Debug\Mediator-GarciaJoel.pdb
