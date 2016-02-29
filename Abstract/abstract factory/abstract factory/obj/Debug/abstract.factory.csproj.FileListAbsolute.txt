@@ -1,0 +1,6 @@
+C:\Users\josem\Desktop\abstract factory\abstract factory\bin\Debug\abstract factory.exe.config
+C:\Users\josem\Desktop\abstract factory\abstract factory\bin\Debug\abstract factory.exe
+C:\Users\josem\Desktop\abstract factory\abstract factory\bin\Debug\abstract factory.pdb
+C:\Users\josem\Desktop\abstract factory\abstract factory\obj\Debug\abstract factory.csprojResolveAssemblyReference.cache
+C:\Users\josem\Desktop\abstract factory\abstract factory\obj\Debug\abstract factory.exe
+C:\Users\josem\Desktop\abstract factory\abstract factory\obj\Debug\abstract factory.pdb
