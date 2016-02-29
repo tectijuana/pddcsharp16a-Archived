@@ -21,7 +21,7 @@ using System.Collections.Generic;
         Console.WriteLine();
     }
 }
-
+ 
 public class DibujaTresVehiculosPorLinea : DibujaCatalogo
  {
      public void dibuja(IList<VistaVehiculo> contenido)
