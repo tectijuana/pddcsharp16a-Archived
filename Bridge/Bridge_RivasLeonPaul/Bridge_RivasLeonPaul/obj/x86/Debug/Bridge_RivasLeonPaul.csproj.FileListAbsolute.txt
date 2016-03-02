@@ -1,0 +1,6 @@
+C:\Users\LabTec\AppData\Local\Temporary Projects\Bridge_RivasLeonPaul\bin\Debug\Bridge_RivasLeonPaul.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\Bridge_RivasLeonPaul\bin\Debug\Bridge_RivasLeonPaul.pdb
+C:\Users\LabTec\AppData\Local\Temporary Projects\Bridge_RivasLeonPaul\obj\x86\Debug\Bridge_RivasLeonPaul.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\Bridge_RivasLeonPaul\obj\x86\Debug\Bridge_RivasLeonPaul.pdb
+C:\Users\LabTec\Desktop\Bridge_RivasLeonPaul\Bridge_RivasLeonPaul\obj\x86\Debug\Bridge_RivasLeonPaul.exe
+C:\Users\LabTec\Desktop\Bridge_RivasLeonPaul\Bridge_RivasLeonPaul\obj\x86\Debug\Bridge_RivasLeonPaul.pdb
