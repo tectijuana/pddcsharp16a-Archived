@@ -1,0 +1,6 @@
+C:\Users\LabTec\AppData\Local\Temporary Projects\Abstract_RivasLeonPaul\bin\Debug\Abstract_RivasLeonPaul.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\Abstract_RivasLeonPaul\bin\Debug\Abstract_RivasLeonPaul.pdb
+C:\Users\LabTec\AppData\Local\Temporary Projects\Abstract_RivasLeonPaul\obj\x86\Debug\Abstract_RivasLeonPaul.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\Abstract_RivasLeonPaul\obj\x86\Debug\Abstract_RivasLeonPaul.pdb
+C:\Users\LabTec\Desktop\Abstract_RivasLeonPaul\Abstract_RivasLeonPaul\obj\x86\Debug\Abstract_RivasLeonPaul.exe
+C:\Users\LabTec\Desktop\Abstract_RivasLeonPaul\Abstract_RivasLeonPaul\obj\x86\Debug\Abstract_RivasLeonPaul.pdb
