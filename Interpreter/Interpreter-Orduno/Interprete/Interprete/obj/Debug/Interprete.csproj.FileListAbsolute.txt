@@ -1,0 +1,2 @@
+C:\Users\josem\Desktop\Interprete\Interprete\bin\Debug\Interprete.exe.config
+C:\Users\josem\Desktop\Interprete\Interprete\obj\Debug\Interprete.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\josem\Desktop\Strategy\Strategy\bin\Debug\Strategy.exe.config
+C:\Users\josem\Desktop\Strategy\Strategy\bin\Debug\Strategy.exe
+C:\Users\josem\Desktop\Strategy\Strategy\bin\Debug\Strategy.pdb
+C:\Users\josem\Desktop\Strategy\Strategy\obj\Debug\Strategy.exe
+C:\Users\josem\Desktop\Strategy\Strategy\obj\Debug\Strategy.pdb

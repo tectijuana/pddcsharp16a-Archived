@@ -1,0 +1,6 @@
+C:\Users\LabTec\AppData\Local\Temporary Projects\Builder_RivasLeonPaul\bin\Debug\Builder_RivasLeonPaul.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\Builder_RivasLeonPaul\bin\Debug\Builder_RivasLeonPaul.pdb
+C:\Users\LabTec\AppData\Local\Temporary Projects\Builder_RivasLeonPaul\obj\x86\Debug\Builder_RivasLeonPaul.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\Builder_RivasLeonPaul\obj\x86\Debug\Builder_RivasLeonPaul.pdb
+C:\Users\LabTec\Desktop\Builder_RivasLeonPaul\Builder_RivasLeonPaul\obj\x86\Debug\Builder_RivasLeonPaul.exe
+C:\Users\LabTec\Desktop\Builder_RivasLeonPaul\Builder_RivasLeonPaul\obj\x86\Debug\Builder_RivasLeonPaul.pdb

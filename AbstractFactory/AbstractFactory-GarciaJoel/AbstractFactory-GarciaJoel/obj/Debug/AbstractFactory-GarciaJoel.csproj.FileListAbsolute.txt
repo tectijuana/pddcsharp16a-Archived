@@ -1,0 +1,6 @@
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\AbstractFactory-GarciaJoel\AbstractFactory-GarciaJoel\bin\Debug\AbstractFactory-GarciaJoel.exe.config
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\AbstractFactory-GarciaJoel\AbstractFactory-GarciaJoel\bin\Debug\AbstractFactory-GarciaJoel.exe
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\AbstractFactory-GarciaJoel\AbstractFactory-GarciaJoel\bin\Debug\AbstractFactory-GarciaJoel.pdb
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\AbstractFactory-GarciaJoel\AbstractFactory-GarciaJoel\obj\Debug\AbstractFactory-GarciaJoel.csprojResolveAssemblyReference.cache
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\AbstractFactory-GarciaJoel\AbstractFactory-GarciaJoel\obj\Debug\AbstractFactory-GarciaJoel.exe
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\AbstractFactory-GarciaJoel\AbstractFactory-GarciaJoel\obj\Debug\AbstractFactory-GarciaJoel.pdb

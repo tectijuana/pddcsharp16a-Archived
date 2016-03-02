@@ -1,0 +1,6 @@
+C:\Users\LabTec\AppData\Local\Temporary Projects\ChainOfResponsability_RivasLeonPaul\bin\Debug\ChainOfResponsability_RivasLeonPaul.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\ChainOfResponsability_RivasLeonPaul\bin\Debug\ChainOfResponsability_RivasLeonPaul.pdb
+C:\Users\LabTec\AppData\Local\Temporary Projects\ChainOfResponsability_RivasLeonPaul\obj\x86\Debug\ChainOfResponsability_RivasLeonPaul.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\ChainOfResponsability_RivasLeonPaul\obj\x86\Debug\ChainOfResponsability_RivasLeonPaul.pdb
+C:\Users\LabTec\Desktop\ChainOfResponsability_RivasLeonPaul\ChainOfResponsability_RivasLeonPaul\obj\x86\Debug\ChainOfResponsability_RivasLeonPaul.exe
+C:\Users\LabTec\Desktop\ChainOfResponsability_RivasLeonPaul\ChainOfResponsability_RivasLeonPaul\obj\x86\Debug\ChainOfResponsability_RivasLeonPaul.pdb

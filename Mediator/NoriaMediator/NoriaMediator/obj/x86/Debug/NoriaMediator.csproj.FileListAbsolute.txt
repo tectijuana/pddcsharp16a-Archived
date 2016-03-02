@@ -1,0 +1,4 @@
+C:\Users\LabTec\AppData\Local\Temporary Projects\NoriaMediator\bin\Debug\NoriaMediator.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\NoriaMediator\bin\Debug\NoriaMediator.pdb
+C:\Users\LabTec\AppData\Local\Temporary Projects\NoriaMediator\obj\x86\Debug\NoriaMediator.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\NoriaMediator\obj\x86\Debug\NoriaMediator.pdb
