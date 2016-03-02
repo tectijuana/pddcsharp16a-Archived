@@ -1,0 +1,6 @@
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\Strategy-GarciaJoel\Strategy-GarciaJoel\bin\Debug\Strategy-GarciaJoel.exe.config
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\Strategy-GarciaJoel\Strategy-GarciaJoel\bin\Debug\Strategy-GarciaJoel.exe
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\Strategy-GarciaJoel\Strategy-GarciaJoel\bin\Debug\Strategy-GarciaJoel.pdb
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\Strategy-GarciaJoel\Strategy-GarciaJoel\obj\Debug\Strategy-GarciaJoel.csprojResolveAssemblyReference.cache
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\Strategy-GarciaJoel\Strategy-GarciaJoel\obj\Debug\Strategy-GarciaJoel.exe
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\Strategy-GarciaJoel\Strategy-GarciaJoel\obj\Debug\Strategy-GarciaJoel.pdb

@@ -1,0 +1,5 @@
+D:\8 Semestre\Patrones de Diseño\Bridge_NoriaPaulina\Bridge_NoriaPaulina\bin\Debug\Bridge_NoriaPaulina.exe.config
+D:\8 Semestre\Patrones de Diseño\Bridge_NoriaPaulina\Bridge_NoriaPaulina\bin\Debug\Bridge_NoriaPaulina.exe
+D:\8 Semestre\Patrones de Diseño\Bridge_NoriaPaulina\Bridge_NoriaPaulina\bin\Debug\Bridge_NoriaPaulina.pdb
+D:\8 Semestre\Patrones de Diseño\Bridge_NoriaPaulina\Bridge_NoriaPaulina\obj\Debug\Bridge_NoriaPaulina.exe
+D:\8 Semestre\Patrones de Diseño\Bridge_NoriaPaulina\Bridge_NoriaPaulina\obj\Debug\Bridge_NoriaPaulina.pdb

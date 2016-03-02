@@ -1,0 +1,5 @@
+C:\Users\josem\Desktop\Builder\Builder\bin\Debug\Builder.exe.config
+C:\Users\josem\Desktop\Builder\Builder\bin\Debug\Builder.exe
+C:\Users\josem\Desktop\Builder\Builder\bin\Debug\Builder.pdb
+C:\Users\josem\Desktop\Builder\Builder\obj\Debug\Builder.exe
+C:\Users\josem\Desktop\Builder\Builder\obj\Debug\Builder.pdb

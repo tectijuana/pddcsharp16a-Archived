@@ -1,6 +1,6 @@
-C:\Users\Joel\Documents\GitHub\pddcsharp\Fecade\Adapter-GarciaJoel\Adapter-GarciaJoel\bin\Debug\Adapter-GarciaJoel.exe.config
-C:\Users\Joel\Documents\GitHub\pddcsharp\Fecade\Adapter-GarciaJoel\Adapter-GarciaJoel\bin\Debug\Adapter-GarciaJoel.exe
-C:\Users\Joel\Documents\GitHub\pddcsharp\Fecade\Adapter-GarciaJoel\Adapter-GarciaJoel\bin\Debug\Adapter-GarciaJoel.pdb
-C:\Users\Joel\Documents\GitHub\pddcsharp\Fecade\Adapter-GarciaJoel\Adapter-GarciaJoel\obj\Debug\Adapter-GarciaJoel.csprojResolveAssemblyReference.cache
-C:\Users\Joel\Documents\GitHub\pddcsharp\Fecade\Adapter-GarciaJoel\Adapter-GarciaJoel\obj\Debug\Adapter-GarciaJoel.exe
-C:\Users\Joel\Documents\GitHub\pddcsharp\Fecade\Adapter-GarciaJoel\Adapter-GarciaJoel\obj\Debug\Adapter-GarciaJoel.pdb
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\Adapter-GarciaJoel\Adapter-GarciaJoel\bin\Debug\Adapter-GarciaJoel.exe.config
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\Adapter-GarciaJoel\Adapter-GarciaJoel\bin\Debug\Adapter-GarciaJoel.exe
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\Adapter-GarciaJoel\Adapter-GarciaJoel\bin\Debug\Adapter-GarciaJoel.pdb
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\Adapter-GarciaJoel\Adapter-GarciaJoel\obj\Debug\Adapter-GarciaJoel.csprojResolveAssemblyReference.cache
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\Adapter-GarciaJoel\Adapter-GarciaJoel\obj\Debug\Adapter-GarciaJoel.exe
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\Adapter-GarciaJoel\Adapter-GarciaJoel\obj\Debug\Adapter-GarciaJoel.pdb

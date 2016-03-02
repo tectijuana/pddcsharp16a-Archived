@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flyweight-GarciaJoel", "Flyweight-GarciaJoel\Flyweight-GarciaJoel.csproj", "{55D8A4C5-431A-4BB4-9639-9097819685DF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flyweight-GarciaJoel", "Flyweight-GarciaJoel\Flyweight-GarciaJoel.csproj", "{112F1EE3-5464-44EB-91EF-88DB8BF25750}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{55D8A4C5-431A-4BB4-9639-9097819685DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{55D8A4C5-431A-4BB4-9639-9097819685DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{55D8A4C5-431A-4BB4-9639-9097819685DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{55D8A4C5-431A-4BB4-9639-9097819685DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{112F1EE3-5464-44EB-91EF-88DB8BF25750}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{112F1EE3-5464-44EB-91EF-88DB8BF25750}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{112F1EE3-5464-44EB-91EF-88DB8BF25750}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{112F1EE3-5464-44EB-91EF-88DB8BF25750}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arellano Garcia Brenda Gabriela (VISITOR)", "Arellano Garcia Brenda Gabriela (VISITOR)\Arellano Garcia Brenda Gabriela (VISITOR).csproj", "{456DF569-A212-4672-9D2B-88631FDC8725}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{456DF569-A212-4672-9D2B-88631FDC8725}.Debug|x86.ActiveCfg = Debug|x86
+		{456DF569-A212-4672-9D2B-88631FDC8725}.Debug|x86.Build.0 = Debug|x86
+		{456DF569-A212-4672-9D2B-88631FDC8725}.Release|x86.ActiveCfg = Release|x86
+		{456DF569-A212-4672-9D2B-88631FDC8725}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

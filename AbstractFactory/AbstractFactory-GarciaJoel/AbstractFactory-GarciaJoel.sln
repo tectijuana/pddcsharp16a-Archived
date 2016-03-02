@@ -1,18 +1,20 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual C# Express 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory-GarciaJoel", "AbstractFactory-GarciaJoel\AbstractFactory-GarciaJoel.csproj", "{74B31010-7D4D-49AE-8666-7C777908F01B}"
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory-GarciaJoel", "AbstractFactory-GarciaJoel\AbstractFactory-GarciaJoel.csproj", "{66C668BD-ABED-4FED-A08C-60F30FB9F70F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|x86 = Debug|x86
-		Release|x86 = Release|x86
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{74B31010-7D4D-49AE-8666-7C777908F01B}.Debug|x86.ActiveCfg = Debug|x86
-		{74B31010-7D4D-49AE-8666-7C777908F01B}.Debug|x86.Build.0 = Debug|x86
-		{74B31010-7D4D-49AE-8666-7C777908F01B}.Release|x86.ActiveCfg = Release|x86
-		{74B31010-7D4D-49AE-8666-7C777908F01B}.Release|x86.Build.0 = Release|x86
+		{66C668BD-ABED-4FED-A08C-60F30FB9F70F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66C668BD-ABED-4FED-A08C-60F30FB9F70F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66C668BD-ABED-4FED-A08C-60F30FB9F70F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66C668BD-ABED-4FED-A08C-60F30FB9F70F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,6 +1,9 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
 
-namespace AbstractFactory
+namespace AbstractFactory_GarciaJoel
 {
     class MainClass
     {
@@ -38,7 +41,8 @@ namespace AbstractFactory
         public AutomovilElectricidad(string modelo, string
                                      color, int potencia, double espacio)
             : base(modelo,
-                color, potencia, espacio) { }
+                color, potencia, espacio)
+        { }
         public override void mostrarCaracteristicas()
         {
             Console.WriteLine(
@@ -54,7 +58,8 @@ namespace AbstractFactory
         public AutomovilGasolina(string modelo, string
                                  color, int potencia, double espacio)
             : base(modelo,
-                color, potencia, espacio) { }
+                color, potencia, espacio)
+        { }
         public override void mostrarCaracteristicas()
         {
             Console.WriteLine(
@@ -66,5 +71,4 @@ namespace AbstractFactory
 
 
     }
-
 }

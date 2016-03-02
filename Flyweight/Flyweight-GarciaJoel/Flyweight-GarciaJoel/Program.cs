@@ -2,25 +2,20 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace Flyweight_GarciaJoel
 {
-
-
     public class OpcionVehiculo
     {
         protected string nombre;
         protected string descripcion;
         protected int precioEstandar;
-
         public OpcionVehiculo(string nombre)
         {
             this.nombre = nombre;
             this.descripcion = "Descripcion de " + nombre;
             this.precioEstandar = 100;
         }
-
         public void visualizar(int precioDeVenta)
         {
             Console.WriteLine("Opción");
@@ -30,7 +25,6 @@ namespace Flyweight_GarciaJoel
             Console.WriteLine("Precio de venta: " + precioDeVenta);
         }
     }
-
     public class FabricaOpcion
     {
         protected IDictionary<string, OpcionVehiculo> opciones = new Dictionary<string, OpcionVehiculo>();
@@ -46,12 +40,9 @@ namespace Flyweight_GarciaJoel
                 resultado = new OpcionVehiculo(nombre);
                 opciones.Add(nombre, resultado);
             }
-
             return resultado;
         }
     }
-
-
     public class VehiculoSolicitado
     {
         protected IList<OpcionVehiculo> opciones =
@@ -76,12 +67,8 @@ namespace Flyweight_GarciaJoel
             }
         }
     }
-
-
-
     class Program
     {
-
         static void Main(string[] args)
         {
             FabricaOpcion fabrica = new FabricaOpcion();
@@ -92,7 +79,6 @@ namespace Flyweight_GarciaJoel
             vehiculo.agregaOpciones("elevalunas eléctricos", 85,
             fabrica);
             vehiculo.muestraOpciones();
-
             Console.ReadKey();
         }
     }

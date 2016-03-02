@@ -1,0 +1,6 @@
+C:\Users\LabTec\AppData\Local\Temporary Projects\enriquezazueta-state\bin\Debug\enriquezazueta-state.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\enriquezazueta-state\bin\Debug\enriquezazueta-state.pdb
+C:\Users\LabTec\AppData\Local\Temporary Projects\enriquezazueta-state\obj\x86\Debug\enriquezazueta-state.exe
+C:\Users\LabTec\AppData\Local\Temporary Projects\enriquezazueta-state\obj\x86\Debug\enriquezazueta-state.pdb
+C:\Users\LabTec\Desktop\enriquezazueta-state\enriquezazueta-state\obj\x86\Debug\enriquezazueta-state.exe
+C:\Users\LabTec\Desktop\enriquezazueta-state\enriquezazueta-state\obj\x86\Debug\enriquezazueta-state.pdb
