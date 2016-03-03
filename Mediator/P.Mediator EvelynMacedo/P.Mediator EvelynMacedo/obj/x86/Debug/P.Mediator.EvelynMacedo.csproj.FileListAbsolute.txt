@@ -1,0 +1,4 @@
+c:\users\evelyn\documents\visual studio 2010\Projects\P.Mediator EvelynMacedo\P.Mediator EvelynMacedo\bin\Debug\P.Mediator EvelynMacedo.exe
+c:\users\evelyn\documents\visual studio 2010\Projects\P.Mediator EvelynMacedo\P.Mediator EvelynMacedo\bin\Debug\P.Mediator EvelynMacedo.pdb
+c:\users\evelyn\documents\visual studio 2010\Projects\P.Mediator EvelynMacedo\P.Mediator EvelynMacedo\obj\x86\Debug\P.Mediator EvelynMacedo.exe
+c:\users\evelyn\documents\visual studio 2010\Projects\P.Mediator EvelynMacedo\P.Mediator EvelynMacedo\obj\x86\Debug\P.Mediator EvelynMacedo.pdb
